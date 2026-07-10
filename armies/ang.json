@@ -1,7 +1,7 @@
 {
   "versione": "2.0-IEF",
-  "nome": "Anglosassoni",
-  "tag": "ANG",
+  "nome": "Vichinghi",
+  "tag": "VIK",
   "unita": [
     {
       "nome_display": "Generale Comandante in Capo (C. in C.)",
@@ -197,7 +197,7 @@
       ]
     },
     {
-      "nome_display": "Fyrd Scelto",
+      "nome_display": "Bondi o Leidang (Lancieri)",
       "tipo": "FP",
       "morale": "GUERRIERI",
       "armi": [
@@ -366,83 +366,175 @@
             "y": 0,
             "z": 0
           }
-        },
+        }
+      ]
+    },
+    {
+      "nome_display": "Bondi o Leidang Arcieri",
+      "tipo": "FP",
+      "morale": "GUERRIERI",
+      "armi": [
+        "ARCO"
+      ],
+      "modificatore": "",
+      "model": "",
+      "basi": [
         {
-          "id": 17,
-          "seq": 17,
+          "id": 1,
+          "seq": 1,
           "guid": null,
           "posizione": {
-            "x": 64,
+            "x": 0,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 18,
-          "seq": 18,
+          "id": 2,
+          "seq": 2,
           "guid": null,
           "posizione": {
-            "x": 68,
+            "x": 4,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 19,
-          "seq": 19,
+          "id": 3,
+          "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 72,
+            "x": 8,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 20,
-          "seq": 20,
+          "id": 4,
+          "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 76,
+            "x": 12,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 21,
-          "seq": 21,
+          "id": 5,
+          "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 80,
+            "x": 16,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 22,
-          "seq": 22,
+          "id": 6,
+          "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 84,
+            "x": 20,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 23,
-          "seq": 23,
+          "id": 7,
+          "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 88,
+            "x": 24,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 24,
-          "seq": 24,
+          "id": 8,
+          "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 92,
+            "x": 28,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 32,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 36,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 40,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 44,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 48,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 52,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 56,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 60,
             "y": 0,
             "z": 0
           }
