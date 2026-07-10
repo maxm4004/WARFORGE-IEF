@@ -448,26 +448,6 @@
           }
         }
       ]
-    },
-    {
-      "nome_display": "Generali Subordinati",
-      "tipo": "FP",
-      "morale": null,
-      "armi": [],
-      "modificatore": "",
-      "model": "",
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        }
-      ]
     }
   ]
 }
