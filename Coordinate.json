@@ -200,6 +200,14 @@
       ],
       "base": null,
       "slots": []
+    },
+    "G_4x3_f3_unit": {
+      "_note": "",
+      "tipi": [
+        "CP"
+      ],
+      "base": null,
+      "slots": []
     }
   }
 }
