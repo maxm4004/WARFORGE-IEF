@@ -731,6 +731,86 @@
             "y": 0,
             "z": 0
           }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 32,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 36,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 40,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 44,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 48,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 52,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 56,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 60,
+            "y": 0,
+            "z": 0
+          }
         }
       ]
     }
