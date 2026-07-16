@@ -771,46 +771,6 @@
             "y": 0,
             "z": 0
           }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 48,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 52,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 56,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 60,
-            "y": 0,
-            "z": 0
-          }
         }
       ]
     }
