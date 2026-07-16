@@ -4,7 +4,8 @@
     "G_4x3_f3": {
       "_note": "KN, CP — base 4x3cm, 3 figure a cavallo (slot+child). Ricavato da ENG_AC1/FRA_AC1.",
       "tipi": [
-        "KN"
+        "KN",
+        "CP"
       ],
       "base": {
         "material": 3,
