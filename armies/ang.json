@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN_CNC",
+      "model": "ANG_CNC",
       "basi": [
         {
           "id": 1,
@@ -32,7 +32,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_FP_1_1",
+      "model": "ANG_HUSCARL_FP",
       "basi": [
         {
           "id": 1,
@@ -205,7 +205,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_FYRD_FP",
       "basi": [
         {
           "id": 1,
@@ -458,7 +458,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_HUSCARL_CP",
       "basi": [
         {
           "id": 1,
