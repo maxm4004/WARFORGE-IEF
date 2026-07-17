@@ -32,7 +32,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_HUSCARL",
       "basi": [
         {
           "id": 1,
@@ -205,7 +205,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_FYRD",
       "basi": [
         {
           "id": 1,
@@ -457,7 +457,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_BOWS",
       "basi": [
         {
           "id": 1,
