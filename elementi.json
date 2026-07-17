@@ -6,6 +6,55 @@
       "Tag": "ANG",
       "modelli": [
         {
+          "nickname": "ANG_BOWS",
+          "id": "mrp2tvjnhix06",
+          "tipo": "FM",
+          "groupId": "Fig3_4x2",
+          "base": {
+            "kind": "model",
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null,
+            null
+          ]
+        },
+        {
           "nickname": "ANG_FYRD",
           "id": "mrp2ouxp2imr0",
           "tipo": "FP",
