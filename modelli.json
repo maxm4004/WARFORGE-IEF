@@ -9,48 +9,6 @@
       "base": null,
       "slots": []
     },
-    "G_4x2_f3": {
-      "_note": "FM — base 4x2cm, 3 figure appiedate. Ricavato da ENG_UI1/ENG_UI2. Attenzione: nei dati sorgente una delle due varianti aveva rotY:270 su tutti gli slot (mesh esportato con rotazione errata), l'altra no — qui lasciato senza rotY, verificare caso per caso in Template.json con rotY_fix.",
-      "tipi": [
-        "FM"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": -0.942,
-          "offsetY": 0.671,
-          "offsetZ": -0.076,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 0.074,
-          "offsetY": 0.671,
-          "offsetZ": -0.113,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 1.112,
-          "offsetY": 0.671,
-          "offsetZ": -0.046,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        }
-      ]
-    },
     "G_4x2_f2": {
       "_note": "FL — base 4x2cm, 2 figure. DA FARE: sospeso.",
       "tipi": [
@@ -271,6 +229,48 @@
           "offsetX": 1.226,
           "offsetY": 0.671,
           "offsetZ": -0.09,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        }
+      ]
+    },
+    "FM_F3_4x2": {
+      "_note": "3 figure base 4x2",
+      "tipi": [
+        "FM"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": -0.942,
+          "offsetY": 0.671,
+          "offsetZ": -0.076,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0.074,
+          "offsetY": 0.671,
+          "offsetZ": -0.113,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 1.112,
+          "offsetY": 0.671,
+          "offsetZ": -0.046,
           "material": 3,
           "type": 0,
           "scaleX": 0.68,
