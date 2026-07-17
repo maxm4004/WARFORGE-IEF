@@ -256,6 +256,28 @@
           "scaleZ": 0.7
         }
       ]
+    },
+    "Comandante in Capo": {
+      "_note": "",
+      "tipi": [
+        "FP"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
     }
   }
 }
