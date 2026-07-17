@@ -7,6 +7,45 @@
       "modelli": [
         {
           "nickname": "ANG_BOWS",
+          "id": "mrp301rxrmv48",
+          "tipo": "FL",
+          "groupId": "Fig2_4x2",
+          "base": {
+            "kind": "model",
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420644642/3AE3BADBFEDE2D6D5A655927911F667042CAF5CD/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420723685/8DFF0EE11B4CC9ACBD5F390EFF6B0F3007ED5BD0/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null
+          ]
+        },
+        {
+          "nickname": "ANG_BOWS",
           "id": "mrp2tvjnhix06",
           "tipo": "FM",
           "groupId": "Fig3_4x2",
