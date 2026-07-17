@@ -303,6 +303,49 @@
           }
         }
       ]
+    },
+    "Fig3_4x3": {
+      "_note": "3 fig base 4x3",
+      "tipi": [
+        "CP"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "slots": [
+        {
+          "offsetX": -1,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 1,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
     }
   }
 }
