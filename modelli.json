@@ -1,6 +1,49 @@
 {
   "versione": "1.0",
   "gruppi": {
+    "G_4x4_f3": {
+      "_note": "3 figure base 4x4",
+      "tipi": [
+        "ART",
+        "EL"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        }
+      ]
+    },
     "G_gen_f1": {
       "_note": "GEN — caso speciale, 1 figura, nessuna base_depth_cm definita. DA FARE: sospeso.",
       "tipi": [
@@ -20,58 +63,6 @@
           "scaleX": 0.7,
           "scaleY": 0.7,
           "scaleZ": 0.7
-        }
-      ]
-    },
-    "FP_F4_4x1.5": {
-      "_note": "4 figure base 4x1.5",
-      "tipi": [
-        "FP"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": -1.084,
-          "offsetY": 0.671,
-          "offsetZ": -0.089,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": -0.278,
-          "offsetY": 0.671,
-          "offsetZ": -0.092,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 0.481,
-          "offsetY": 0.671,
-          "offsetZ": -0.09,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 1.226,
-          "offsetY": 0.671,
-          "offsetZ": -0.09,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
         }
       ]
     },
@@ -268,6 +259,58 @@
           "offsetX": 1.112,
           "offsetY": 0.671,
           "offsetZ": -0.046,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        }
+      ]
+    },
+    "Fig4_4x1.5": {
+      "_note": "4 figure base 4x1.5",
+      "tipi": [
+        "FP"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": -1.084,
+          "offsetY": 0.671,
+          "offsetZ": -0.089,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": -0.278,
+          "offsetY": 0.671,
+          "offsetZ": -0.092,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0.481,
+          "offsetY": 0.671,
+          "offsetZ": -0.09,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 1.226,
+          "offsetY": 0.671,
+          "offsetZ": -0.09,
           "material": 3,
           "type": 0,
           "scaleX": 0.68,
