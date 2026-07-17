@@ -1,14 +1,6 @@
 {
   "versione": "1.0",
   "gruppi": {
-    "G_4x2_f2": {
-      "_note": "FL — base 4x2cm, 2 figure. DA FARE: sospeso.",
-      "tipi": [
-        "FL"
-      ],
-      "base": null,
-      "slots": []
-    },
     "G_4x4_f3": {
       "_note": "ART, EL — base 4x4cm, 3 figure. DA FARE: nessun riferimento nei dati forniti, sospeso.",
       "tipi": [
@@ -275,6 +267,38 @@
       "_note": "2 figure base 4x3",
       "tipi": [
         "CL"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
+    },
+    "Fig2_4x2": {
+      "_note": "2 figure base 4x2 ",
+      "tipi": [
+        "FL"
       ],
       "base": {
         "material": 3,
