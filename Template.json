@@ -165,12 +165,12 @@
         {
           "nickname": "ANG_GEN_CNC",
           "id": "mrofv2f2kwa3n",
-          "tipo": "GEN",
-          "groupId": "G_gen_f1",
+          "tipo": "FP",
+          "groupId": "Comandante in Capo",
           "base": {
             "kind": "model",
-            "meshURL": "",
-            "diffuseURL": "",
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
             "colliderURL": "",
             "assetBundleURL": "",
             "assetBundleSecondaryURL": "",
@@ -178,7 +178,7 @@
           },
           "slots": [
             {
-              "kind": "model",
+              "kind": "bundle",
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
