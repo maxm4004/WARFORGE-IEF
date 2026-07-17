@@ -1,49 +1,6 @@
 {
   "versione": "1.0",
   "gruppi": {
-    "G_4x4_f3": {
-      "_note": "3 figure base 4x4",
-      "tipi": [
-        "ART",
-        "EL"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        }
-      ]
-    },
     "G_gen_f1": {
       "_note": "GEN — caso speciale, 1 figura, nessuna base_depth_cm definita. DA FARE: sospeso.",
       "tipi": [
@@ -271,48 +228,6 @@
           "offsetZ": 0,
           "material": 3,
           "type": 0,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        }
-      ]
-    },
-    "11111111111": {
-      "_note": "3 cavalieri con cavallo base 4x3",
-      "tipi": [
-        "CP"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": -1,
-          "offsetY": 0,
-          "offsetZ": 0.4,
-          "material": 3,
-          "type": 1,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        },
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 1,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        },
-        {
-          "offsetX": 1,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 1,
           "scaleX": 0.7,
           "scaleY": 0.7,
           "scaleZ": 0.7
