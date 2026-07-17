@@ -32,7 +32,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_INF",
       "basi": [
         {
           "id": 1,
@@ -457,7 +457,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_M",
       "basi": [
         {
           "id": 1,
@@ -649,7 +649,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_L",
       "basi": [
         {
           "id": 1,
@@ -722,7 +722,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_CAV",
       "basi": [
         {
           "id": 1,
