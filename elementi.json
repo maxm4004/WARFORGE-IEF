@@ -35,7 +35,7 @@
           ]
         },
         {
-          "nickname": "ANG_HUSCARL",
+          "nickname": "ANG_HUSCARL_CAV",
           "id": "mrp3ct2gkcxu1",
           "tipo": "CP",
           "groupId": "Fig3_4x3",
@@ -84,7 +84,7 @@
           ]
         },
         {
-          "nickname": "ANG_BOWS",
+          "nickname": "ANG_BOWS_L",
           "id": "mrp301rxrmv48",
           "tipo": "FL",
           "groupId": "Fig2_4x2",
@@ -123,7 +123,7 @@
           ]
         },
         {
-          "nickname": "ANG_BOWS",
+          "nickname": "ANG_BOWS_M",
           "id": "mrp2tvjnhix06",
           "tipo": "FM",
           "groupId": "Fig3_4x2",
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "nickname": "ANG_HUSCARL",
+          "nickname": "ANG_HUSCARL_INF",
           "id": "mrp24buoe1syb",
           "tipo": "FP",
           "groupId": "Fig4_4x1.5",
