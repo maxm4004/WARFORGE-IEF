@@ -1,0 +1,9 @@
+const ENEMY_NAME_ALIASES = {
+  "Normanni": "primi_normanni",
+  "Irlandesi": "irlandesi_pre_conquista",
+  "Carolingi": "franchi_carolingi",
+  "Tedeschi Medievali": "tedeschi_medioevali_imperiali",
+  "Longobardi (Guerre civili)": "longobardi",
+  "Sassanidi": "tardo_sassanidi",
+  "Russi Medievali": "russi_medioevali",
+};
