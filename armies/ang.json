@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_GEN_CNC",
       "basi": [
         {
           "id": 1,
@@ -32,7 +32,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_FP_1_1",
       "basi": [
         {
           "id": 1,
