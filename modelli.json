@@ -9,7 +9,8 @@
       ],
       "base": {
         "material": 3,
-        "type": 0
+        "type": 0,
+        "scaleZ": 1
       },
       "slots": [
         {
@@ -81,7 +82,8 @@
       ],
       "base": {
         "material": 3,
-        "type": 0
+        "type": 0,
+        "scaleZ": 1
       },
       "slots": [
         {
@@ -103,7 +105,8 @@
       ],
       "base": {
         "material": 3,
-        "type": 0
+        "type": 0,
+        "scaleZ": 1
       },
       "slots": [
         {
@@ -136,7 +139,7 @@
       "base": {
         "material": 3,
         "type": 0,
-        "scaleZ": 0.6
+        "scaleZ": 0.66
       },
       "slots": [
         {
@@ -169,7 +172,7 @@
       "base": {
         "material": 3,
         "type": 0,
-        "scaleZ": 0.6
+        "scaleZ": 0.66
       },
       "slots": [
         {
