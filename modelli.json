@@ -121,28 +121,6 @@
         }
       ]
     },
-    "Generale - Comandante in Capo": {
-      "_note": "",
-      "tipi": [
-        "FP"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        }
-      ]
-    },
     "FP_F4_4x1.5": {
       "_note": "4 figure base 4x1.5",
       "tipi": [
@@ -273,6 +251,28 @@
           "offsetZ": 0,
           "material": 3,
           "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
+    },
+    "FP_F1_4x3": {
+      "_note": "1 figura base 4x3 (Generale in capo e subordinati)",
+      "tipi": [
+        "FP"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
           "scaleX": 0.7,
           "scaleY": 0.7,
           "scaleZ": 0.7
