@@ -1,6 +1,49 @@
 {
   "versione": "1.0",
   "gruppi": {
+    "G_4x4_f3": {
+      "_note": "3 figure base 4x4",
+      "tipi": [
+        "ART",
+        "EL"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        }
+      ]
+    },
     "G_gen_f1": {
       "_note": "GEN — caso speciale, 1 figura, nessuna base_depth_cm definita. DA FARE: sospeso.",
       "tipi": [
@@ -170,90 +213,6 @@
         }
       ]
     },
-    "F3_4x2": {
-      "_note": "3 figure base 4x2",
-      "tipi": [
-        "FM"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": -0.942,
-          "offsetY": 0.671,
-          "offsetZ": -0.076,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 0.074,
-          "offsetY": 0.671,
-          "offsetZ": -0.113,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        },
-        {
-          "offsetX": 1.112,
-          "offsetY": 0.671,
-          "offsetZ": -0.046,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.68,
-          "scaleY": 0.68,
-          "scaleZ": 0.68
-        }
-      ]
-    },
-    "Fig3_4x": {
-      "_note": "3 cavalieri con cavallo base 4x3",
-      "tipi": [
-        "CP"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": -1,
-          "offsetY": 0,
-          "offsetZ": 0.4,
-          "material": 3,
-          "type": 1,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        },
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 1,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        },
-        {
-          "offsetX": 1,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 1,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        }
-      ]
-    },
     "Fig2_4x3": {
       "_note": "2 figure base 4x3",
       "tipi": [
@@ -318,14 +277,89 @@
         }
       ]
     },
-    "Fig3_4x4": {
-      "_note": "3 figure base 4x4",
+    "11111111111": {
+      "_note": "3 cavalieri con cavallo base 4x3",
       "tipi": [
-        "ART",
-        "EL"
+        "CP"
       ],
-      "base": null,
-      "slots": []
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": -1,
+          "offsetY": 0,
+          "offsetZ": 0.4,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 0,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 1,
+          "offsetY": 0,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 1,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
+    },
+    "Fig3_4x2": {
+      "_note": "3 figure base 4x2",
+      "tipi": [
+        "FM"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0
+      },
+      "slots": [
+        {
+          "offsetX": -0.942,
+          "offsetY": 0.671,
+          "offsetZ": -0.076,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 0.074,
+          "offsetY": 0.671,
+          "offsetZ": -0.113,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        },
+        {
+          "offsetX": 1.112,
+          "offsetY": 0.671,
+          "offsetZ": -0.046,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.68,
+          "scaleY": 0.68,
+          "scaleZ": 0.68
+        }
+      ]
     }
   }
 }
