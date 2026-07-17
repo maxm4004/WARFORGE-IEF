@@ -1,0 +1,135 @@
+{
+  "versione": "1.0-slim",
+  "Army": [
+    {
+      "name": "anglosassoni",
+      "Tag": "ANG",
+      "modelli": [
+        {
+          "nickname": "ANG_HUSCARL",
+          "id": "mrp24buoe1syb",
+          "tipo": "FP",
+          "groupId": "Fig4_4x1.5",
+          "base": {
+            "kind": "model",
+            "meshURL": "",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vichinghi",
+      "Tag": "VIK",
+      "modelli": []
+    },
+    {
+      "name": "primi_normanni",
+      "Tag": "NOR",
+      "modelli": []
+    },
+    {
+      "name": "franchi_carolingi",
+      "Tag": "FRA",
+      "modelli": []
+    },
+    {
+      "name": "irlandesi_pre_conquista",
+      "Tag": "IRL",
+      "modelli": []
+    },
+    {
+      "name": "comunali_italiani",
+      "Tag": "COM",
+      "modelli": []
+    },
+    {
+      "name": "longobardi",
+      "Tag": "LON",
+      "modelli": []
+    },
+    {
+      "name": "primi_bizantini",
+      "Tag": "BIZ",
+      "modelli": []
+    },
+    {
+      "name": "primi_crociati",
+      "Tag": "CRO",
+      "modelli": []
+    },
+    {
+      "name": "tardo_sassanidi",
+      "Tag": "SAS",
+      "modelli": []
+    },
+    {
+      "name": "tedeschi_medioevali_imperiali",
+      "Tag": "TED",
+      "modelli": []
+    },
+    {
+      "name": "turchi_selgiuchidi",
+      "Tag": "SEL",
+      "modelli": []
+    },
+    {
+      "name": "ordine_teutonico",
+      "Tag": "TEU",
+      "modelli": []
+    },
+    {
+      "name": "russi_medioevali",
+      "Tag": "RUS",
+      "modelli": []
+    }
+  ]
+}
