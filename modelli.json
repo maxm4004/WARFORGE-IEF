@@ -1,28 +1,6 @@
 {
   "versione": "1.0",
   "gruppi": {
-    "G_gen_f1": {
-      "_note": "GEN — caso speciale, 1 figura, nessuna base_depth_cm definita. DA FARE: sospeso.",
-      "tipi": [
-        "GEN"
-      ],
-      "base": {
-        "material": 3,
-        "type": 0
-      },
-      "slots": [
-        {
-          "offsetX": 0,
-          "offsetY": 0,
-          "offsetZ": 0,
-          "material": 3,
-          "type": 0,
-          "scaleX": 0.7,
-          "scaleY": 0.7,
-          "scaleZ": 0.7
-        }
-      ]
-    },
     "Fig3_4x3": {
       "_note": "3 cavalieri 3 cavalli base 4x3 ",
       "tipi": [
