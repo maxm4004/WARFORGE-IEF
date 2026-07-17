@@ -6,6 +6,65 @@
       "Tag": "ANG",
       "modelli": [
         {
+          "nickname": "ANG_FYRD",
+          "id": "mrp2ouxp2imr0",
+          "tipo": "FP",
+          "groupId": "Fig4_4x1.5",
+          "base": {
+            "kind": "model",
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600411232/F07B07A2F324104DE23E8F7A109DD0E9FC5F8615/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600411232/F07B07A2F324104DE23E8F7A109DD0E9FC5F8615/",
+              "assetBundleSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        {
           "nickname": "ANG_HUSCARL",
           "id": "mrp24buoe1syb",
           "tipo": "FP",
