@@ -165,8 +165,8 @@
         {
           "nickname": "ANG_GEN_CNC",
           "id": "mrofv2f2kwa3n",
-          "tipo": "CP",
-          "groupId": "G_4x3_f3",
+          "tipo": "GEN",
+          "groupId": "G_gen_f1",
           "base": {
             "kind": "model",
             "meshURL": "",
@@ -185,29 +185,9 @@
               "assetBundleURL": "",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
-            },
-            {
-              "kind": "model",
-              "meshURL": "",
-              "diffuseURL": "",
-              "colliderURL": "",
-              "assetBundleURL": "",
-              "assetBundleSecondaryURL": "",
-              "rotY_fix": null
-            },
-            {
-              "kind": "model",
-              "meshURL": "",
-              "diffuseURL": "",
-              "colliderURL": "",
-              "assetBundleURL": "",
-              "assetBundleSecondaryURL": "",
-              "rotY_fix": null
             }
           ],
           "children": [
-            null,
-            null,
             null
           ]
         }
