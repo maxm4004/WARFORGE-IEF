@@ -195,7 +195,7 @@
         }
       ]
     },
-    "F3_4x2": {
+    "Fig3_4x2": {
       "_note": "3 figure base 4x2",
       "tipi": [
         "FM"
@@ -237,7 +237,7 @@
         }
       ]
     },
-    "Fig3_4x": {
+    "Fig_4x3": {
       "_note": "3 cavalieri con cavallo base 4x3",
       "tipi": [
         "CP"
