@@ -59,6 +59,22 @@
         "vs_unita_in_copertura":   -1
       }
     },
+    "LANCIA": {
+  "label": "Lancia",
+  "range_inches": 0
+},
+"ASCIA": {
+  "label": "Ascia",
+  "range_inches": 0
+},
+"ARMI_CORTE": {
+  "label": "Armi Corte",
+  "range_inches": 0
+},
+"SCUDO": {
+  "label": "Scudo",
+  "range_inches": 0
+},
     "ARMA_DA_FUOCO": {
       "label": "Arma da Fuoco",
       "range_inches": 4,
