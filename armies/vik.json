@@ -370,10 +370,12 @@
       ]
     },
     {
-      "nome_display": "Bondi o Leidang (mista)",
+      "nome_display": "Bondi o Leidang Mista",
       "tipo": "FP",
       "morale": "GUERRIERI",
       "armi": [
+        "LANCIA",
+        "SCUDO",
         "ARCO"
       ],
       "modificatore": "",
