@@ -1,6 +1,7 @@
 {
   "weapons": {
     "GIAVELLOTTO": {
+      "label": "Giavellotto",
       "range_inches": 2,
       "hit_threshold": 4,
       "modifiers": {
@@ -10,6 +11,7 @@
       }
     },
     "ARCO": {
+      "label": "Arco",
       "range_inches": 5,
       "hit_threshold": 4,
       "modifiers": {
@@ -19,6 +21,7 @@
       }
     },
     "FIONDA": {
+      "label": "Fionda",
       "range_inches": 5,
       "hit_threshold": 4,
       "modifiers": {
@@ -28,6 +31,7 @@
       }
     },
     "BALESTRA": {
+      "label": "Balestra",
       "range_inches": 6,
       "hit_threshold": 4,
       "modifiers": {
@@ -37,6 +41,7 @@
       }
     },
     "ARCO_LUNGO": {
+      "label": "Arco Lungo",
       "range_inches": 8,
       "hit_threshold": 4,
       "modifiers": {
@@ -46,6 +51,7 @@
       }
     },
     "ARTIGLIERIA": {
+      "label": "Artiglieria",
       "range_inches": 24,
       "hit_threshold": 4,
       "modifiers": {
@@ -54,6 +60,7 @@
       }
     },
     "ARMA_DA_FUOCO": {
+      "label": "Arma da Fuoco",
       "range_inches": 4,
       "hit_threshold": 4,
       "modifiers": {
