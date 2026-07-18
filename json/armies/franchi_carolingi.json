@@ -15,5 +15,5 @@
       { name: "Schermagliatori con Giavellotto", type: "FL", morale: "GUERRIERI", weapons: ["GIAVELLOTTO", "SCUDO"], capabilities: [], bases_min: 0, bases_max: 16, bases_per_unit: 6, cost_per_base: 3, is_key_unit: false, notes: "" },
       { name: "Schermagliatori con Arco", type: "FL", morale: "GUERRIERI", weapons: ["ARCO"], capabilities: [], bases_min: 0, bases_max: 16, bases_per_unit: 6, cost_per_base: 2, is_key_unit: false, notes: "" },
       { name: "Fanti Slavi", type: "FM", morale: "GUERRIERI", weapons: ["GIAVELLOTTO", "SCUDO"], capabilities: [], bases_min: 0, bases_max: 16, bases_per_unit: 6, cost_per_base: 4, is_key_unit: true, notes: "" },
-    ],
-  }
+    ]
+}
