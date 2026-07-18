@@ -1,16 +1,16 @@
-const ARMY_CODES = {
-  anglosassoni: "ANG",
-  vichinghi: "VIK",
-  primi_normanni: "NOR",
-  franchi_carolingi: "FRA",
-  irlandesi_pre_conquista: "IRL",
-  comunali_italiani: "COM",
-  longobardi: "LON",
-  primi_bizantini: "BIZ",
-  primi_crociati: "CRO",
-  tardo_sassanidi: "SAS",
-  tedeschi_medioevali_imperiali: "TED",
-  turchi_selgiuchidi: "SEL",
-  ordine_teutonico: "TEU",
-  russi_medioevali: "RUS",
-};
+{
+  "anglosassoni": "ANG",
+  "vichinghi": "VIK",
+  "primi_normanni": "NOR",
+  "franchi_carolingi": "FRA",
+  "irlandesi_pre_conquista": "IRL",
+  "comunali_italiani": "COM",
+  "longobardi": "LON",
+  "primi_bizantini": "BIZ",
+  "primi_crociati": "CRO",
+  "tardo_sassanidi": "SAS",
+  "tedeschi_medioevali_imperiali": "TED",
+  "turchi_selgiuchidi": "SEL",
+  "ordine_teutonico": "TEU",
+  "russi_medioevali": "RUS"
+}
