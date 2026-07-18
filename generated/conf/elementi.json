@@ -3,6 +3,7 @@
   "Army": [
     {
       "name": "anglosassoni",
+      "Tag": "ANG",
       "modelli": [
         {
           "nickname": "ANG_GEN",
@@ -292,54 +293,67 @@
     },
     {
       "name": "vichinghi",
+      "Tag": "VIK",
       "modelli": []
     },
     {
       "name": "primi_normanni",
+      "Tag": "NOR",
       "modelli": []
     },
     {
       "name": "franchi_carolingi",
+      "Tag": "FRA",
       "modelli": []
     },
     {
       "name": "irlandesi_pre_conquista",
+      "Tag": "IRL",
       "modelli": []
     },
     {
       "name": "comunali_italiani",
+      "Tag": "COM",
       "modelli": []
     },
     {
       "name": "longobardi",
+      "Tag": "LON",
       "modelli": []
     },
     {
       "name": "primi_bizantini",
+      "Tag": "BIZ",
       "modelli": []
     },
     {
       "name": "primi_crociati",
+      "Tag": "CRO",
       "modelli": []
     },
     {
       "name": "tardo_sassanidi",
+      "Tag": "SAS",
       "modelli": []
     },
     {
       "name": "tedeschi_medioevali_imperiali",
+      "Tag": "TED",
       "modelli": []
     },
     {
       "name": "turchi_selgiuchidi",
+      "Tag": "SEL",
       "modelli": []
     },
     {
       "name": "ordine_teutonico",
+      "Tag": "TEU",
       "modelli": []
     },
     {
       "name": "russi_medioevali",
+      "Tag": "RUS",
       "modelli": []
     }
   ]
