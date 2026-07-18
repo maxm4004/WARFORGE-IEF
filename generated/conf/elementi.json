@@ -294,7 +294,86 @@
     {
       "name": "vichinghi",
       "Tag": "VIK",
-      "modelli": []
+      "modelli": [
+        {
+          "nickname": "VIK_HUSCARL_CAV",
+          "id": "mrqoll135hfcs",
+          "tipo": "CP",
+          "groupId": "Fig3_4x3",
+          "base": {
+            "kind": "model",
+            "meshURL": "",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null,
+            null
+          ]
+        },
+        {
+          "nickname": "VIK_GEN",
+          "id": "mrqok5kw1jmvi",
+          "tipo": "FP",
+          "groupId": "Fig1_4x3",
+          "base": {
+            "kind": "model",
+            "meshURL": "",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null
+          ]
+        }
+      ]
     },
     {
       "name": "primi_normanni",
