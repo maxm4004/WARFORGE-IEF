@@ -1,4 +1,4 @@
-const ENEMY_NAME_ALIASES = {
+{
   "Normanni": "primi_normanni",
   "Irlandesi": "irlandesi_pre_conquista",
   "Carolingi": "franchi_carolingi",
