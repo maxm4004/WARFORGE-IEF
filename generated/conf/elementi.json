@@ -296,6 +296,45 @@
       "Tag": "VIK",
       "modelli": [
         {
+          "nickname": "VIK_GIAV",
+          "id": "mrqost9o3740k",
+          "tipo": "FL",
+          "groupId": "Fig2_4x2",
+          "base": {
+            "kind": "model",
+            "meshURL": "",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            }
+          ],
+          "children": [
+            null,
+            null
+          ]
+        },
+        {
           "nickname": "VIK_BONDI_MIX",
           "id": "mrqorbgwt3x7g",
           "tipo": "FP",
