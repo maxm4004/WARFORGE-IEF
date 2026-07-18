@@ -366,86 +366,6 @@
             "y": 0,
             "z": 0
           }
-        },
-        {
-          "id": 17,
-          "seq": 17,
-          "guid": null,
-          "posizione": {
-            "x": 64,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 18,
-          "seq": 18,
-          "guid": null,
-          "posizione": {
-            "x": 68,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 19,
-          "seq": 19,
-          "guid": null,
-          "posizione": {
-            "x": 72,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 20,
-          "seq": 20,
-          "guid": null,
-          "posizione": {
-            "x": 76,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 21,
-          "seq": 21,
-          "guid": null,
-          "posizione": {
-            "x": 80,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 22,
-          "seq": 22,
-          "guid": null,
-          "posizione": {
-            "x": 84,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 23,
-          "seq": 23,
-          "guid": null,
-          "posizione": {
-            "x": 88,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 24,
-          "seq": 24,
-          "guid": null,
-          "posizione": {
-            "x": 92,
-            "y": 0,
-            "z": 0
-          }
         }
       ]
     },
@@ -620,243 +540,169 @@
             "y": 0,
             "z": 0
           }
-        },
+        }
+      ]
+    },
+    {
+      "nome_display": "Huscarls a Cavallo",
+      "tipo": "CP",
+      "morale": "VETERANI",
+      "armi": [
+        "ARMI_CORTE",
+        "SCUDO"
+      ],
+      "modificatore": "",
+      "model": "",
+      "basi": [
         {
-          "id": 17,
-          "seq": 17,
+          "id": 1,
+          "seq": 1,
           "guid": null,
           "posizione": {
-            "x": 64,
+            "x": 0,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 18,
-          "seq": 18,
+          "id": 2,
+          "seq": 2,
           "guid": null,
           "posizione": {
-            "x": 68,
+            "x": 4,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 19,
-          "seq": 19,
+          "id": 3,
+          "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 72,
+            "x": 8,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 20,
-          "seq": 20,
+          "id": 4,
+          "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 76,
+            "x": 12,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 21,
-          "seq": 21,
+          "id": 5,
+          "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 80,
+            "x": 16,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 22,
-          "seq": 22,
+          "id": 6,
+          "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 84,
+            "x": 20,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 23,
-          "seq": 23,
+          "id": 7,
+          "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 88,
+            "x": 24,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 24,
-          "seq": 24,
+          "id": 8,
+          "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 92,
+            "x": 28,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "nome_display": "Schermagliatori con Giavellotto",
+      "tipo": "FL",
+      "morale": "GUERRIERI",
+      "armi": [
+        "GIAVELLOTTO",
+        "SCUDO"
+      ],
+      "modificatore": "",
+      "model": "",
+      "basi": [
+        {
+          "id": 1,
+          "seq": 1,
+          "guid": null,
+          "posizione": {
+            "x": 0,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 25,
-          "seq": 25,
+          "id": 2,
+          "seq": 2,
           "guid": null,
           "posizione": {
-            "x": 96,
+            "x": 4,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 26,
-          "seq": 26,
+          "id": 3,
+          "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 100,
+            "x": 8,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 27,
-          "seq": 27,
+          "id": 4,
+          "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 104,
+            "x": 12,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 28,
-          "seq": 28,
+          "id": 5,
+          "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 108,
+            "x": 16,
             "y": 0,
             "z": 0
           }
         },
         {
-          "id": 29,
-          "seq": 29,
+          "id": 6,
+          "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 112,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 30,
-          "seq": 30,
-          "guid": null,
-          "posizione": {
-            "x": 116,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 31,
-          "seq": 31,
-          "guid": null,
-          "posizione": {
-            "x": 120,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 32,
-          "seq": 32,
-          "guid": null,
-          "posizione": {
-            "x": 124,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 33,
-          "seq": 33,
-          "guid": null,
-          "posizione": {
-            "x": 128,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 34,
-          "seq": 34,
-          "guid": null,
-          "posizione": {
-            "x": 132,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 35,
-          "seq": 35,
-          "guid": null,
-          "posizione": {
-            "x": 136,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 36,
-          "seq": 36,
-          "guid": null,
-          "posizione": {
-            "x": 140,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 37,
-          "seq": 37,
-          "guid": null,
-          "posizione": {
-            "x": 144,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 38,
-          "seq": 38,
-          "guid": null,
-          "posizione": {
-            "x": 148,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 39,
-          "seq": 39,
-          "guid": null,
-          "posizione": {
-            "x": 152,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 40,
-          "seq": 40,
-          "guid": null,
-          "posizione": {
-            "x": 156,
+            "x": 20,
             "y": 0,
             "z": 0
           }
