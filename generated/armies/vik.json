@@ -21,7 +21,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "basi_per_rango": 1
     },
     {
       "nome_display": "Huscarls",
@@ -109,9 +110,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -119,9 +120,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -129,9 +130,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -139,9 +140,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -149,9 +150,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -159,9 +160,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -169,9 +170,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 24,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -179,9 +180,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -189,12 +190,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         }
-      ]
+      ],
+      "basi_per_rango": 7
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -272,9 +274,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -282,9 +284,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -292,9 +294,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -302,9 +304,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -312,9 +314,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -322,9 +324,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -332,9 +334,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -342,9 +344,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -352,9 +354,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -362,12 +364,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         }
-      ]
+      ],
+      "basi_per_rango": 6
     },
     {
       "nome_display": "Bondi o Leidang Mista",
@@ -466,9 +469,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -476,9 +479,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -486,9 +489,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -496,9 +499,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -506,9 +509,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -516,9 +519,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -526,9 +529,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 24,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -536,12 +539,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 28,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         }
-      ]
+      ],
+      "basi_per_rango": 8
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -707,7 +711,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "basi_per_rango": 6
     }
   ]
 }
