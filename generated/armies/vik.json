@@ -543,6 +543,166 @@
             "y": 0,
             "z": 1.5
           }
+        },
+        {
+          "id": 17,
+          "seq": 17,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 18,
+          "seq": 18,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 19,
+          "seq": 19,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 20,
+          "seq": 20,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 21,
+          "seq": 21,
+          "guid": null,
+          "posizione": {
+            "x": 16,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 22,
+          "seq": 22,
+          "guid": null,
+          "posizione": {
+            "x": 20,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 23,
+          "seq": 23,
+          "guid": null,
+          "posizione": {
+            "x": 24,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 24,
+          "seq": 24,
+          "guid": null,
+          "posizione": {
+            "x": 28,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 25,
+          "seq": 25,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 26,
+          "seq": 26,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 27,
+          "seq": 27,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 28,
+          "seq": 28,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 29,
+          "seq": 29,
+          "guid": null,
+          "posizione": {
+            "x": 16,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 30,
+          "seq": 30,
+          "guid": null,
+          "posizione": {
+            "x": 20,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 31,
+          "seq": 31,
+          "guid": null,
+          "posizione": {
+            "x": 24,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 32,
+          "seq": 32,
+          "guid": null,
+          "posizione": {
+            "x": 28,
+            "y": 0,
+            "z": 4.5
+          }
         }
       ],
       "basi_per_rango": 8
