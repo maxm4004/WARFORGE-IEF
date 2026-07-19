@@ -21,7 +21,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "basi_per_rango": 1
     },
     {
       "nome_display": "Huscarls",
@@ -119,9 +120,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -129,9 +130,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -139,9 +140,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -149,9 +150,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -159,9 +160,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -169,9 +170,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -179,9 +180,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 24,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -189,12 +190,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 28,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         }
-      ]
+      ],
+      "basi_per_rango": 8
     },
     {
       "nome_display": "Fyrd Scelto",
@@ -292,9 +294,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -302,9 +304,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -312,9 +314,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -322,9 +324,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -332,9 +334,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -342,9 +344,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -352,9 +354,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 24,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -362,9 +364,9 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 28,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -372,9 +374,9 @@
           "seq": 17,
           "guid": null,
           "posizione": {
-            "x": 64,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -382,9 +384,9 @@
           "seq": 18,
           "guid": null,
           "posizione": {
-            "x": 68,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -392,9 +394,9 @@
           "seq": 19,
           "guid": null,
           "posizione": {
-            "x": 72,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -402,9 +404,9 @@
           "seq": 20,
           "guid": null,
           "posizione": {
-            "x": 76,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -412,9 +414,9 @@
           "seq": 21,
           "guid": null,
           "posizione": {
-            "x": 80,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -422,9 +424,9 @@
           "seq": 22,
           "guid": null,
           "posizione": {
-            "x": 84,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -432,9 +434,9 @@
           "seq": 23,
           "guid": null,
           "posizione": {
-            "x": 88,
+            "x": 24,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -442,12 +444,13 @@
           "seq": 24,
           "guid": null,
           "posizione": {
-            "x": 92,
+            "x": 28,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         }
-      ]
+      ],
+      "basi_per_rango": 8
     },
     {
       "nome_display": "Arcieri Sassoni",
@@ -524,9 +527,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -534,9 +537,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -544,9 +547,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -554,9 +557,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -564,9 +567,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -574,9 +577,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -584,9 +587,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 48,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         },
         {
@@ -594,9 +597,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 52,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         },
         {
@@ -604,9 +607,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 56,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         },
         {
@@ -614,9 +617,9 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 60,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         },
         {
@@ -624,9 +627,9 @@
           "seq": 17,
           "guid": null,
           "posizione": {
-            "x": 64,
+            "x": 16,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         },
         {
@@ -634,12 +637,13 @@
           "seq": 18,
           "guid": null,
           "posizione": {
-            "x": 68,
+            "x": 20,
             "y": 0,
-            "z": 0
+            "z": 4
           }
         }
-      ]
+      ],
+      "basi_per_rango": 6
     },
     {
       "nome_display": "Schermagliatori con Arco",
@@ -711,7 +715,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "basi_per_rango": 6
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -769,9 +774,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -779,9 +784,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -789,9 +794,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -799,9 +804,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -809,9 +814,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 32,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         },
         {
@@ -819,9 +824,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 36,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         },
         {
@@ -829,9 +834,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 40,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         },
         {
@@ -839,12 +844,13 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 44,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         }
-      ]
+      ],
+      "basi_per_rango": 4
     }
   ],
   "modelli": {
