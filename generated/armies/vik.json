@@ -110,9 +110,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 28,
             "y": 0,
-            "z": 1.5
+            "z": 0
           }
         },
         {
@@ -120,7 +120,7 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
             "z": 1.5
           }
@@ -130,7 +130,7 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 4,
             "y": 0,
             "z": 1.5
           }
@@ -140,7 +140,7 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 8,
             "y": 0,
             "z": 1.5
           }
@@ -150,7 +150,7 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 12,
             "y": 0,
             "z": 1.5
           }
@@ -160,7 +160,7 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 16,
             "y": 0,
             "z": 1.5
           }
@@ -170,7 +170,7 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 20,
             "y": 0,
             "z": 1.5
           }
@@ -180,9 +180,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 24,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -190,13 +190,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 28,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         }
       ],
-      "basi_per_rango": 7
+      "basi_per_rango": 8
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -274,9 +274,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 24,
             "y": 0,
-            "z": 1.5
+            "z": 0
           }
         },
         {
@@ -284,9 +284,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 28,
             "y": 0,
-            "z": 1.5
+            "z": 0
           }
         },
         {
@@ -294,7 +294,7 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
             "z": 1.5
           }
@@ -304,7 +304,7 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 4,
             "y": 0,
             "z": 1.5
           }
@@ -314,7 +314,7 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 8,
             "y": 0,
             "z": 1.5
           }
@@ -324,7 +324,7 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 12,
             "y": 0,
             "z": 1.5
           }
@@ -334,9 +334,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 16,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -344,9 +344,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 20,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -354,9 +354,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 24,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -364,13 +364,13 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 28,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         }
       ],
-      "basi_per_rango": 6
+      "basi_per_rango": 8
     },
     {
       "nome_display": "Bondi o Leidang Mista",
