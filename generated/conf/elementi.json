@@ -144,7 +144,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": null
+              "rotY_fix": 210
             },
             {
               "kind": "bundle",
@@ -153,7 +153,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": null
+              "rotY_fix": 210
             },
             {
               "kind": "bundle",
@@ -162,7 +162,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": null
+              "rotY_fix": 210
             }
           ],
           "children": [
@@ -209,7 +209,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600411232/F07B07A2F324104DE23E8F7A109DD0E9FC5F8615/",
+              "assetBundleURL": "",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -218,7 +218,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+              "assetBundleURL": "",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             }
