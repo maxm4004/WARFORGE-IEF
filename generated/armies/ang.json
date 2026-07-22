@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN",
+      "model": "ANG_GEN_FP",
       "basi": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_FP",
       "basi": [
         {
           "id": 1,
@@ -207,7 +207,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_FYRD",
+      "model": "ANG_FYRD_FP",
       "basi": [
         {
           "id": 1,
@@ -460,7 +460,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_FM",
       "basi": [
         {
           "id": 1,
@@ -653,7 +653,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_FL",
       "basi": [
         {
           "id": 1,
@@ -727,7 +727,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_CP",
       "basi": [
         {
           "id": 1,
