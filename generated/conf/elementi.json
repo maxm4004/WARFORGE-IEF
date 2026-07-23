@@ -296,6 +296,45 @@
       "Tag": "VIK",
       "modelli": [
         {
+          "nickname": "VIK_GEN",
+          "id": "mrxrrukfa917s",
+          "tipo": "FP",
+          "groupId": "Fig1_4x3",
+          "base": {
+            "kind": "model",
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+            "colliderURL": "",
+            "assetBundleURL": "",
+            "assetBundleSecondaryURL": "",
+            "rotY_fix": null
+          },
+          "slots": [
+            {
+              "kind": "bundle",
+              "meshURL": "",
+              "diffuseURL": "",
+              "colliderURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": null
+            },
+            {
+              "kind": "model",
+              "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
+              "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
+              "colliderURL": "",
+              "assetBundleURL": "",
+              "assetBundleSecondaryURL": "",
+              "rotY_fix": 270
+            }
+          ],
+          "children": [
+            null,
+            null
+          ]
+        },
+        {
           "nickname": "VIK_BERSERK",
           "id": "mrxh6l7p6yi0h",
           "tipo": "FM",
