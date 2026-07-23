@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_INF",
+      "model": "VIK_HUSCARL_INF_FP",
       "basi": [
         {
           "id": 1,
@@ -207,7 +207,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_LAN",
+      "model": "VIK_BONDI_MIX_FP",
       "basi": [
         {
           "id": 1,
@@ -382,7 +382,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_MIX",
+      "model": "VIK_BONDI_LAN_FP",
       "basi": [
         {
           "id": 1,
@@ -556,7 +556,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_CAV",
+      "model": "VIK_HUSCARL_CAV_CP",
       "basi": [
         {
           "id": 1,
@@ -649,7 +649,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV",
+      "model": "VIK_GIAV_FL",
       "basi": [
         {
           "id": 1,
