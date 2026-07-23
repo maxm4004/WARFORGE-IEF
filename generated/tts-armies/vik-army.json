@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_INF",
+      "model": "VIK_HUSCARL_INF_FP",
       "basi": [
         {
           "id": 1,
@@ -196,7 +196,8 @@
           }
         }
       ],
-      "basi_per_rango": 8
+      "basi_per_rango": 8,
+      "numero_unita": 1
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -207,7 +208,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_LAN",
+      "model": "VIK_BONDI_MIX_FP",
       "basi": [
         {
           "id": 1,
@@ -370,7 +371,8 @@
           }
         }
       ],
-      "basi_per_rango": 8
+      "basi_per_rango": 8,
+      "numero_unita": 2
     },
     {
       "nome_display": "Bondi o Leidang Mista",
@@ -382,7 +384,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_MIX",
+      "model": "VIK_BONDI_LAN_FP",
       "basi": [
         {
           "id": 1,
@@ -545,7 +547,8 @@
           }
         }
       ],
-      "basi_per_rango": 8
+      "basi_per_rango": 8,
+      "numero_unita": 3
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -556,7 +559,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_CAV",
+      "model": "VIK_HUSCARL_CAV_CP",
       "basi": [
         {
           "id": 1,
@@ -638,7 +641,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "numero_unita": 1
     },
     {
       "nome_display": "Schermagliatori con Giavellotto",
@@ -649,7 +653,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV",
+      "model": "VIK_GIAV_FL",
       "basi": [
         {
           "id": 1,
@@ -712,11 +716,12 @@
           }
         }
       ],
-      "basi_per_rango": 6
+      "basi_per_rango": 6,
+      "numero_unita": 1
     }
   ],
   "modelli": {
-    "VIK_GEN": {
+    "VIK_GEN_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -728,13 +733,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0,
             "offsetY": 0,
             "offsetZ": 0
@@ -742,7 +747,7 @@
         }
       ]
     },
-    "VIK_HUSCARL_INF": {
+    "VIK_HUSCARL_INF_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -754,13 +759,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -1.084,
             "offsetY": 0.671,
             "offsetZ": -0.089
@@ -768,13 +773,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009403074/5736A09C3267331860775F91A8A48EDA3F3D7405/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.278,
             "offsetY": 0.671,
             "offsetZ": -0.092
@@ -782,13 +787,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009379729/A63E8FDC73A6AE2E390DAC140E9EA4105621AC0C/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.481,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -796,13 +801,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 1.226,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -810,7 +815,7 @@
         }
       ]
     },
-    "VIK_BONDI_LAN": {
+    "VIK_BONDI_MIX_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -822,13 +827,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -1.084,
             "offsetY": 0.671,
             "offsetZ": -0.089
@@ -836,13 +841,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.278,
             "offsetY": 0.671,
             "offsetZ": -0.092
@@ -850,13 +855,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.481,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -864,13 +869,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 1.226,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -878,7 +883,7 @@
         }
       ]
     },
-    "VIK_BONDI_MIX": {
+    "VIK_BONDI_LAN_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -890,13 +895,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -1.084,
             "offsetY": 0.671,
             "offsetZ": -0.089
@@ -904,13 +909,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.278,
             "offsetY": 0.671,
             "offsetZ": -0.092
@@ -918,13 +923,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.481,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -932,13 +937,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.68,
-            "scaleY": 0.68,
-            "scaleZ": 0.68,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 1.226,
             "offsetY": 0.671,
             "offsetZ": -0.09
@@ -946,7 +951,7 @@
         }
       ]
     },
-    "VIK_HUSCARL_CAV": {
+    "VIK_HUSCARL_CAV_CP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -958,13 +963,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -1,
             "offsetY": 0,
             "offsetZ": 0.4
@@ -972,13 +977,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0,
             "offsetY": 0,
             "offsetZ": 0.4
@@ -986,13 +991,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 1,
             "offsetY": 0,
             "offsetZ": 0.4
@@ -1000,7 +1005,7 @@
         }
       ]
     },
-    "VIK_GIAV": {
+    "VIK_GIAV_FL": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1012,13 +1017,13 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0,
             "offsetY": 0,
             "offsetZ": 0
@@ -1026,13 +1031,13 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0,
             "offsetY": 0,
             "offsetZ": 0
