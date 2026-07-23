@@ -144,7 +144,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": 210
+              "rotY_fix": 50
             },
             {
               "kind": "bundle",
@@ -153,7 +153,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": 210
+              "rotY_fix": 50
             },
             {
               "kind": "bundle",
@@ -162,7 +162,7 @@
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
               "assetBundleSecondaryURL": "",
-              "rotY_fix": 210
+              "rotY_fix": 50
             }
           ],
           "children": [
