@@ -4,7 +4,8 @@
     "Fig1_4x3": {
       "_note": "1 figura base 4x3 (Generale in capo e subordinati)",
       "tipi": [
-        "FP"
+        "FP",
+        "CP"
       ],
       "base": {
         "material": 3,
