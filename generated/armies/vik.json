@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_INF_FP",
+      "model": "VIK_HUSCARL_FP",
       "basi": [
         {
           "id": 1,
@@ -556,7 +556,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_CAV_CP",
+      "model": "VIK_HUSCARL_CP",
       "basi": [
         {
           "id": 1,
