@@ -297,13 +297,13 @@
       "modelli": [
         {
           "nickname": "VIK_BERSERK",
-          "id": "mrxh6l7p6yi0h",
+          "id": "mrxh2c7za3ijh",
           "tipo": "FM",
           "groupId": "Fig3_4x2",
           "base": {
             "kind": "model",
             "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
             "colliderURL": "",
             "assetBundleURL": "",
             "assetBundleSecondaryURL": "",
@@ -312,7 +312,7 @@
           "slots": [
             {
               "kind": "bundle",
-              "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
+              "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
