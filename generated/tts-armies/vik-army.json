@@ -729,7 +729,7 @@
       ],
       "modificatore": "",
       "model": "VIK_BERSERK_FM",
-      "basi_per_rango": 4,
+      "basi_per_rango": 6,
       "basi": [
         {
           "id": 1,
@@ -776,9 +776,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 16,
             "y": 0,
-            "z": 2
+            "z": 0
           }
         },
         {
@@ -786,9 +786,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 20,
             "y": 0,
-            "z": 2
+            "z": 0
           }
         }
       ],
