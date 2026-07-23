@@ -816,8 +816,24 @@
             "scaleY": 0.75,
             "scaleZ": 0.75,
             "offsetX": 0,
-            "offsetY": 0,
+            "offsetY": 0.036,
             "offsetZ": 0
+          }
+        },
+        {
+          "customMesh": {
+            "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
+            "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": 0.018,
+            "offsetY": 0.045,
+            "offsetZ": 0.7,
+            "rotY": 270
           }
         }
       ]
