@@ -297,13 +297,13 @@
       "modelli": [
         {
           "nickname": "VIK_BERSERK",
-          "id": "mrxh2c7za3ijh",
+          "id": "mrxh6l7p6yi0h",
           "tipo": "FM",
           "groupId": "Fig3_4x2",
           "base": {
             "kind": "model",
             "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+            "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
             "colliderURL": "",
             "assetBundleURL": "",
             "assetBundleSecondaryURL": "",
@@ -312,7 +312,7 @@
           "slots": [
             {
               "kind": "bundle",
-              "meshURL": "",
+              "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
               "diffuseURL": "",
               "colliderURL": "",
               "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
@@ -364,7 +364,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -403,7 +403,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -412,7 +412,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -421,7 +421,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -430,7 +430,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             }
@@ -462,7 +462,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -471,7 +471,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -480,7 +480,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             },
@@ -489,7 +489,7 @@
               "meshURL": "",
               "diffuseURL": "",
               "colliderURL": "",
-              "assetBundleURL": "",
+              "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
               "assetBundleSecondaryURL": "",
               "rotY_fix": null
             }
