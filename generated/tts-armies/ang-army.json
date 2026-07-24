@@ -879,8 +879,23 @@
             "scaleY": 0.75,
             "scaleZ": 0.75,
             "offsetX": 0,
-            "offsetY": 0,
+            "offsetY": 0.036,
             "offsetZ": 0
+          }
+        },
+        {
+          "customMesh": {
+            "meshURL": "",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": 0.018,
+            "offsetY": 0.045,
+            "offsetZ": 0.7
           }
         }
       ]
@@ -1139,7 +1154,8 @@
             "scaleZ": 0.75,
             "offsetX": -1,
             "offsetY": 0,
-            "offsetZ": 0.4
+            "offsetZ": 0.4,
+            "rotY": 240
           }
         },
         {
@@ -1153,7 +1169,8 @@
             "scaleZ": 0.75,
             "offsetX": 0,
             "offsetY": 0,
-            "offsetZ": 0.4
+            "offsetZ": 0.4,
+            "rotY": 240
           }
         },
         {
@@ -1167,7 +1184,8 @@
             "scaleZ": 0.75,
             "offsetX": 1,
             "offsetY": 0,
-            "offsetZ": 0.4
+            "offsetZ": 0.4,
+            "rotY": 240
           }
         }
       ]
