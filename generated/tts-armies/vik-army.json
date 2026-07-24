@@ -596,9 +596,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -606,9 +606,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -616,9 +616,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -626,9 +626,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         },
         {
@@ -636,12 +636,13 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         }
       ],
+      "basi_per_rango": 3,
       "numero_unita": 1
     },
     {
