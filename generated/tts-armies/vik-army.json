@@ -22,7 +22,8 @@
           }
         }
       ],
-      "basi_per_rango": 1
+      "basi_per_rango": 1,
+      "numero_unita": 1
     },
     {
       "nome_display": "Huscarls",
@@ -197,7 +198,7 @@
         }
       ],
       "basi_per_rango": 8,
-      "numero_unita": 1
+      "numero_unita": 2
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -548,7 +549,7 @@
         }
       ],
       "basi_per_rango": 8,
-      "numero_unita": 3
+      "numero_unita": 2
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -643,7 +644,7 @@
         }
       ],
       "basi_per_rango": 4,
-      "numero_unita": 1
+      "numero_unita": 2
     },
     {
       "nome_display": "Schermagliatori con Giavellotto",
@@ -793,6 +794,7 @@
           }
         }
       ],
+      "basi_per_rango": 6,
       "numero_unita": 1
     }
   ],
