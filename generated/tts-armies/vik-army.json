@@ -596,9 +596,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 12,
             "y": 0,
-            "z": 3
+            "z": 0
           }
         },
         {
@@ -606,7 +606,7 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
             "z": 3
           }
@@ -616,7 +616,7 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 4,
             "y": 0,
             "z": 3
           }
@@ -626,9 +626,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         },
         {
@@ -636,13 +636,13 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 12,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         }
       ],
-      "basi_per_rango": 3,
+      "basi_per_rango": 4,
       "numero_unita": 1
     },
     {
