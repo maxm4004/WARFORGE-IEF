@@ -593,53 +593,13 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 12,
             "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 6
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 6
+            "z": 0
           }
         }
       ],
-      "basi_per_rango": 3
+      "basi_per_rango": 4
     },
     {
       "nome_display": "Schermagliatori con Giavellotto",
