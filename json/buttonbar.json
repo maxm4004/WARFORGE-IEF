@@ -2,12 +2,12 @@
   "buttonbar": {
     "slots": {
       "1": {
-        "label": "Move",
-        "tooltip": "Move units",
+        "label": "Unit Info",
+        "tooltip": "Show in a popup unit info",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "move_avanti_rectangle"  
+        "callBack": "main_infoUnita"  
       },
       "2": {
         "label": "Clear",
