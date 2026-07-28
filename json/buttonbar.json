@@ -3,7 +3,7 @@
     "slots": {
       "1": {
         "label": "Move",
-        "tooltip": Move units",
+        "tooltip": "Move units",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
