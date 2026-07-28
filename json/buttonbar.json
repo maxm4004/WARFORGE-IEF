@@ -23,7 +23,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",        
-        "callBack": "lionheart_lineLeft"
+        "callBack": "move_lineLeft"
       },
       "4": {
         "label": "Line Right", 
@@ -31,7 +31,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_lineRight"     
+        "callBack": "move_lineRight"     
       },
       "5": {
         "label": "Skirmish", 
@@ -39,7 +39,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_skirmish"  
+        "callBack": "move_skirmish"  
       },
       "6": {
         "label": "Column Up", 
@@ -47,7 +47,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_columnUp"  
+        "callBack": "move_columnUp"  
       },      
       "7": {
         "label": "Column Down", 
@@ -55,7 +55,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_columnDown"
+        "callBack": "move_columnDown"
       },
       "8": {
         "label": "Fire", 
@@ -63,7 +63,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_range_and_target"
+        "callBack": "shoot_range_and_target"
       },
       "9": {
         "label": "Melee", 
@@ -71,7 +71,7 @@
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
-        "callBack": "lionheart_melee"
+        "callBack": "melee_attack"
       },
       "10": {
         "label": "Measure", 
