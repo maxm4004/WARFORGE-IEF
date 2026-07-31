@@ -2,7 +2,7 @@
   "buttonbar": {
     "slots": {
       "1": {
-        "label": "Move",
+        "label": "Muovi",
         "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
@@ -10,24 +10,24 @@
         "callBack": "move_avanti_rectangle"  
       },
       "2": {
-        "label": "Clear",
-        "tooltip": "Clear chat",
+        "label": "Formazione",
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",        
         "callBack": "clear"
       },
       "3": {
-        "label": "Line Left",      
-        "tooltip": "form a line starting from the left",
+        "label": "Linea Sinistra",      
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",        
         "callBack": "move_lineLeft"
       },
       "4": {
-        "label": "Line Right", 
-        "tooltip": "form a line starting from the right",
+        "label": "Linea Destra", 
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
@@ -35,38 +35,38 @@
       },
       "5": {
         "label": "Skirmish", 
-        "tooltip": "skirmish formation",
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
         "callBack": "move_skirmish"  
       },
       "6": {
-        "label": "Column Up", 
-        "tooltip": "form a column to up",
+        "label": "Colonna Alto", 
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
         "callBack": "move_columnUp"  
       },      
       "7": {
-        "label": "Column Down", 
-        "tooltip": "form a column to down",
+        "label": "Colonna Basso", 
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
         "callBack": "move_columnDown"
       },
       "8": {
-        "label": "Fire", 
-        "tooltip": "Unit open fire",
+        "label": "Tiro", 
+        "tooltip": "",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
         "callBack": "shoot_range_and_target"
       },
       "9": {
-        "label": "Melee", 
+        "label": "Mischia", 
         "tooltip": "Resolve melee",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
@@ -74,12 +74,20 @@
         "callBack": "melee_attack"
       },
       "10": {
-        "label": "Measure", 
+        "label": "Misure", 
         "tooltip": "Measuring everything",
         "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
         "textColor": "#000000",
         "onClick": "engine_buttonBarClick",
         "callBack": "engine_measure"
+      },
+      "11": {
+        "label": "Pulisci",
+        "tooltip": "Clear chat",
+        "colors": "#E0E0E0|#B8B8B8|#909090|#FFFFFF",
+        "textColor": "#000000",
+        "onClick": "engine_buttonBarClick",        
+        "callBack": "clear"
       }
     }
   }
