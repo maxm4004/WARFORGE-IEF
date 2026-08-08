@@ -860,10 +860,9 @@
   ],
   "modelli": {
     "ANG_GEN_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 1
@@ -902,7 +901,7 @@
     },
     "ANG_HUSCARL_FP": {
       "customAssetbundle": {
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17588290496223605036/2623E9344C51618176B80862CDDAD95BBAA5132C/",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
         "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
@@ -968,10 +967,9 @@
       ]
     },
     "ANG_FYRD_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.5
@@ -1036,10 +1034,9 @@
       ]
     },
     "ANG_BOWS_FM": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.66
@@ -1093,10 +1090,9 @@
       ]
     },
     "ANG_BOWS_FL": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.66
@@ -1134,7 +1130,7 @@
     },
     "ANG_HUSCARL_CP": {
       "customAssetbundle": {
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17588290496223605036/2623E9344C51618176B80862CDDAD95BBAA5132C/",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10692340241468538668/E0CC40CF3AF04B9F2BB683AF6DD1ADF3B34C144B/",
         "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
