@@ -14,9 +14,9 @@
       },
       "slots": [
         {
-          "offsetX": -1.051,
-          "offsetY": 0.077,
-          "offsetZ": 0.173,
+          "offsetX": 0,
+          "offsetY": 0.036,
+          "offsetZ": 0,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
