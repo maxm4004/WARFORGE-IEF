@@ -22,8 +22,7 @@
           }
         }
       ],
-      "basi_per_rango": 1,
-      "numero_unita": 1
+      "basi_per_rango": 1
     },
     {
       "nome_display": "Huscarls",
@@ -198,7 +197,7 @@
         }
       ],
       "basi_per_rango": 8,
-      "numero_unita": 2
+      "numero_unita": 1
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -799,10 +798,9 @@
   ],
   "modelli": {
     "VIK_GEN_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 1
@@ -817,9 +815,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0,
-            "offsetY": 0.036,
-            "offsetZ": 0
+            "offsetX": -1.051,
+            "offsetY": 0.077,
+            "offsetZ": 0.173
           }
         },
         {
@@ -841,10 +839,9 @@
       ]
     },
     "VIK_HUSCARL_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.5
@@ -909,10 +906,9 @@
       ]
     },
     "VIK_BONDI_MIX_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.5
@@ -977,10 +973,9 @@
       ]
     },
     "VIK_BONDI_LAN_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.5
@@ -1045,10 +1040,9 @@
       ]
     },
     "VIK_HUSCARL_CP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 1
@@ -1063,9 +1057,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": -1,
-            "offsetY": 0,
-            "offsetZ": 0.4,
+            "offsetX": -1.051,
+            "offsetY": 0.077,
+            "offsetZ": -0.173,
             "rotY": 0
           }
         },
@@ -1078,9 +1072,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0.4,
+            "offsetX": -0.066,
+            "offsetY": 0.077,
+            "offsetZ": -0.175,
             "rotY": 0
           }
         },
@@ -1093,19 +1087,18 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 1,
-            "offsetY": 0,
-            "offsetZ": 0.4,
+            "offsetX": 0.974,
+            "offsetY": 0.077,
+            "offsetZ": -0.143,
             "rotY": 0
           }
         }
       ]
     },
     "VIK_GIAV_FL": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.66
@@ -1120,9 +1113,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0
+            "offsetX": 0.816,
+            "offsetY": 0.073,
+            "offsetZ": -0.035
           }
         },
         {
@@ -1134,18 +1127,17 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0
+            "offsetX": -0.832,
+            "offsetY": 0.077,
+            "offsetZ": -0.035
           }
         }
       ]
     },
     "VIK_BERSERK_FM": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942544699601731/8CA9A0469A8383413D7ED3B2732CC52D29F840C2/",
-        "colliderURL": "",
+      "customAssetbundle": {
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
         "material": 3,
         "type": 0,
         "scaleZ": 0.66
