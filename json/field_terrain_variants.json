@@ -1,0 +1,43 @@
+{
+  "terrain_variants": {
+    "APERTO": {
+      "description": "Collina Dolce - conta come terreno aperto, bonus altezza in combattimento",
+      "varianti": [
+        {"id": "dosso_erboso", "nome": "Dosso Erboso", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/12256751584196437996/C31690C9ACB9329092F36A4CF875C02A1DB694EE/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}]
+    },
+    "ROTTO": {
+      "description": "Aree cespugliose o lievemente rocciose, campi coltivati, colline ripide",
+      "varianti": [
+        { "id": "cespugli",        "nome": "Cespugli Bassi",  		 "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/13006971036558436587/3CFA1030405DA4F888AE62732EA978DEAB021AC6/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}},
+        { "id": "rocce_lievi",     "nome": "Terreno Roccioso Lieve", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/13006971036558436587/3CFA1030405DA4F888AE62732EA978DEAB021AC6/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}},
+        { "id": "campo_coltivato", "nome": "Campo Coltivato",        "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/13006971036558436587/3CFA1030405DA4F888AE62732EA978DEAB021AC6/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}},
+        { "id": "collina_ripida",  "nome": "Collina Ripida",         "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/13006971036558436587/3CFA1030405DA4F888AE62732EA978DEAB021AC6/", "spawn": { "tipo": "assetbundle",  "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}},
+        { "id": "fossato",         "nome": "Fossato",                "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/13006971036558436587/3CFA1030405DA4F888AE62732EA978DEAB021AC6/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}
+      ]
+    },
+    "DIFFICILE": {
+      "description": "Boschi, zone paludose o molto rocciose, frutteti, abitato",
+      "provides_cover": true,
+      "varianti": [
+        { "id": "boschetto",   "nome": "Boschetto Rado",     "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/10848591061338049196/EAFAFA2010B0C72604D1DF370B528B895AB9E44D/",    "spawn": { "tipo": "assetbundle",   "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } },
+        { "id": "palude",      "nome": "Zona Paludosa",      "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/10848591061338049196/EAFAFA2010B0C72604D1DF370B528B895AB9E44D/",    "spawn": { "tipo": "custom_model",  "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } },
+        { "id": "rocce_dense", "nome": "Rocce Ravvicinate",  "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/10848591061338049196/EAFAFA2010B0C72604D1DF370B528B895AB9E44D/", "spawn": { "tipo": "custom_model",  "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } },
+        { "id": "frutteto",    "nome": "Frutteto",           "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/10848591061338049196/EAFAFA2010B0C72604D1DF370B528B895AB9E44D/",     "spawn": { "tipo": "assetbundle",   "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } },
+        { "id": "casale",      "nome": "Casale Isolato",     "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/10848591061338049196/EAFAFA2010B0C72604D1DF370B528B895AB9E44D/",  "spawn": { "tipo": "assetbundle",   "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } }
+      ]
+    },
+    "INTRANSITABILE": {
+      "description": "Foreste impenetrabili, laghetti",
+      "varianti": [
+        { "id": "foresta_fitta", "nome": "Foresta Fitta", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/14629711420672048610/5BB7DA52E69A762150775A2A8FD66C46BE70C3FE/", "spawn": { "tipo": "assetbundle",  "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } },
+        { "id": "laghetto",      "nome": "Laghetto",  "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/14629711420672048610/5BB7DA52E69A762150775A2A8FD66C46BE70C3FE/",     "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } }
+      ]
+    },
+    "FIUME": {
+      "description": "Inguadabile e impassabile tranne nei punti di guado",
+      "varianti": [
+        { "id": "fiume_guado", "nome": "Fiume con Guado",  "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/16651620024038697029/96B4634BE600C930D170E5DA34E6235E8273B2B8/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } }
+      ]
+    }
+  }
+}
