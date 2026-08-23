@@ -3,7 +3,7 @@
     "APERTO": {
       "description": "Collina Dolce - conta come terreno aperto, bonus altezza in combattimento",
       "varianti": [
-        {"id": "dosso_erboso", "nome": "Dosso Erboso", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/12256751584196437996/C31690C9ACB9329092F36A4CF875C02A1DB694EE/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}]
+        {"id": "dosso_erboso", "nome": "Dosso Erboso", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/17930207076826246563/41BC3948DDCEE9D78B74366B90E1995B4FE753CF/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}]
     },
     "ROTTO": {
       "description": "Aree cespugliose o lievemente rocciose, campi coltivati, colline ripide",
