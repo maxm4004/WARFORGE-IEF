@@ -3,7 +3,7 @@
       "COVER": {
       "description": "copertina",
       "varianti": [
-        {"id": "cover", "nome": "cover", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/17813846755874741835/7DA784650320B93DF9BECD9475C6717FF27817BA/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}]
+        {"id": "cover", "nome": "cover", "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/9883548769229902985/F06C1AF0E443EA3D764C073B7A4A05BABFB35B73/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0}}}]
     },
     "APERTO": {
       "description": "Collina Dolce - conta come terreno aperto, bonus altezza in combattimento",
