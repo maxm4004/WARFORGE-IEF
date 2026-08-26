@@ -41,7 +41,7 @@
     "FIUME": {
       "description": "Inguadabile e impassabile tranne nei punti di guado",
       "varianti": [
-        { "id": "fiume_guado", "nome": "Fiume con Guado",  "immagine_url": https://steamusercontent-a.akamaihd.net/ugc/12569057387480963254/A11A37B17219174182BA21F7866E2D9482B2899E/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } }
+        { "id": "fiume_guado", "nome": "Fiume con Guado",  "immagine_url": "https://steamusercontent-a.akamaihd.net/ugc/12569057387480963254/A11A37B17219174182BA21F7866E2D9482B2899E/", "spawn": { "tipo": "custom_model", "mesh_url": null, "diffuse_url": null, "normal_url": null, "collider_url": null, "assetbundle_url": null, "scale": {"x":1,"y":1,"z":1}, "rotazione_default": {"x":0,"y":0,"z":0} } }
       ]
     }
   }
