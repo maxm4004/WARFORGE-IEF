@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_FP",
+      "model": "VIK_HUSCARL",
       "basi": [
         {
           "id": 1,
@@ -207,7 +207,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_MIX_FP",
+      "model": "VIK_BONDI_LAN",
       "basi": [
         {
           "id": 1,
@@ -382,7 +382,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_LAN_FP",
+      "model": "VIK_BONDI_MIX",
       "basi": [
         {
           "id": 1,
@@ -556,7 +556,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_CP",
+      "model": "VIK_HUSCARL",
       "basi": [
         {
           "id": 1,
@@ -650,7 +650,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV_FL",
+      "model": "VIK_GIAV",
       "basi": [
         {
           "id": 1,
@@ -724,7 +724,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BERSERK_FM",
+      "model": "VIK_BERSERK",
       "basi_per_rango": 6,
       "basi": [
         {
