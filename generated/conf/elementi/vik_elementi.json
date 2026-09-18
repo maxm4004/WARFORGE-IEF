@@ -1,10 +1,4 @@
-{
-  "versione": "1.0-slim",
-  "Army": [
-    {
-      "name": "vichinghi",
-      "Tag": "VIK",
-      "modelli": [
+{ "versione": "1.0-slim", "name": "vichinghi", "Tag": "VIK", "modelli": [
         {
           "nickname": "VIK_GEN",
           "id": "mrxrrukfa917s",
