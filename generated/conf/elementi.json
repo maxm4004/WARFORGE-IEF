@@ -9,6 +9,7 @@
           "nickname": "ANG_GEN",
           "id": "mrp3idzkv3i55",
           "tipo": "FP",
+          "ruolo": "generale",
           "groupId": "Fig1_4x3",
           "base": {
             "kind": "model",
@@ -38,6 +39,7 @@
           "nickname": "ANG_HUSCARL",
           "id": "mrp3ct2gkcxu1",
           "tipo": "CP",
+          "ruolo": "normale",
           "groupId": "Fig3_4x3",
           "base": {
             "kind": "model",
@@ -87,6 +89,7 @@
           "nickname": "ANG_BOWS",
           "id": "mrp301rxrmv48",
           "tipo": "FL",
+          "ruolo": "normale",
           "groupId": "Fig2_4x2",
           "base": {
             "kind": "model",
@@ -126,6 +129,7 @@
           "nickname": "ANG_BOWS",
           "id": "mrp2tvjnhix06",
           "tipo": "FM",
+          "ruolo": "normale",
           "groupId": "Fig3_4x2",
           "base": {
             "kind": "model",
@@ -175,6 +179,7 @@
           "nickname": "ANG_FYRD",
           "id": "mrp2ouxp2imr0",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig4_4x1.5",
           "base": {
             "kind": "model",
@@ -234,6 +239,7 @@
           "nickname": "ANG_HUSCARL",
           "id": "mrp24buoe1syb",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig4_4x1.5",
           "base": {
             "kind": "model",
@@ -299,6 +305,7 @@
           "nickname": "VIK_GEN",
           "id": "mrxrrukfa917s",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig1_4x3",
           "base": {
             "kind": "model",
@@ -338,6 +345,7 @@
           "nickname": "VIK_BERSERK",
           "id": "mrxh6l7p6yi0h",
           "tipo": "FM",
+          "ruolo": "normale",
           "groupId": "Fig3_4x2",
           "base": {
             "kind": "model",
@@ -387,6 +395,7 @@
           "nickname": "VIK_GIAV",
           "id": "mrqour6unx8dl",
           "tipo": "FL",
+          "ruolo": "normale",
           "groupId": "Fig2_4x2",
           "base": {
             "kind": "model",
@@ -426,6 +435,7 @@
           "nickname": "VIK_BONDI_MIX",
           "id": "mrqorbgwt3x7g",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig4_4x1.5",
           "base": {
             "kind": "model",
@@ -485,6 +495,7 @@
           "nickname": "VIK_BONDI_LAN",
           "id": "mrqoq52jsr5ji",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig4_4x1.5",
           "base": {
             "kind": "model",
@@ -544,6 +555,7 @@
           "nickname": "VIK_HUSCARL",
           "id": "mrqoownfzv8nu",
           "tipo": "FP",
+          "ruolo": "normale",
           "groupId": "Fig4_4x1.5",
           "base": {
             "kind": "model",
@@ -603,6 +615,7 @@
           "nickname": "VIK_HUSCARL",
           "id": "mrqoll135hfcs",
           "tipo": "CP",
+          "ruolo": "normale",
           "groupId": "Fig3_4x3",
           "base": {
             "kind": "model",
