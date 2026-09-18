@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN_FP",
+      "model": "ANG_GEN",
       "basi": [
         {
           "id": 1,
@@ -858,7 +858,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "",
+      "model": "ANG_GEN",
       "basi_per_rango": 1,
       "basi": [
         {
