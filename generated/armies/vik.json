@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN_FP",
+      "model": "VIK_GEN",
       "basi": [
         {
           "id": 1,
@@ -783,6 +783,27 @@
           "guid": null,
           "posizione": {
             "x": 20,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ]
+    },
+    {
+      "nome_display": "Generale Subordinato",
+      "tipo": "FP",
+      "morale": null,
+      "armi": [],
+      "modificatore": "",
+      "model": "VIK_GEN",
+      "basi_per_rango": 1,
+      "basi": [
+        {
+          "id": 1,
+          "seq": 1,
+          "guid": null,
+          "posizione": {
+            "x": 0,
             "y": 0,
             "z": 0
           }
