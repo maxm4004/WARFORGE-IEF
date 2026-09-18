@@ -1,367 +1,367 @@
 {
-	"versione": "1.0-slim",
-	"name": "vichinghi",
-	"Tag": "VIK",
-	"modelli": [
-		{
-			"nickname": "VIK_GEN",
-			"id": "mrxrrukfa917s",
-			"tipo": "FP",
-			"ruolo": "generale",
-			"groupId": "Fig1_4x3",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "model",
-					"meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
-					"diffuseURL": "https://i.imgur.com/RWCcwFC.png",
-					"colliderURL": "",
-					"assetBundleURL": "",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": 270
-				}
-			],
-			"children": [
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_BERSERK",
-			"id": "mrxh6l7p6yi0h",
-			"tipo": "FM",
-			"ruolo": "normale",
-			"groupId": "Fig3_4x2",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600738725/6CEFB4C94D610FDCC6575805A133A14F9599175D/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791585127104/362E496FACE1FB4B1676820E494D09C94200BDE3/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				}
-			],
-			"children": [
-				null,
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_GIAV",
-			"id": "mrqour6unx8dl",
-			"tipo": "FL",
-			"ruolo": "normale",
-			"groupId": "Fig2_4x2",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				}
-			],
-			"children": [
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_BONDI_MIX",
-			"id": "mrqorbgwt3x7g",
-			"tipo": "FP",
-			"ruolo": "normale",
-			"groupId": "Fig4_4x1.5",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				}
-			],
-			"children": [
-				null,
-				null,
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_BONDI_LAN",
-			"id": "mrqoq52jsr5ji",
-			"tipo": "FP",
-			"ruolo": "normale",
-			"groupId": "Fig4_4x1.5",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				}
-			],
-			"children": [
-				null,
-				null,
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_HUSCARL",
-			"id": "mrqoownfzv8nu",
-			"tipo": "FP",
-			"ruolo": "normale",
-			"groupId": "Fig4_4x1.5",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009403074/5736A09C3267331860775F91A8A48EDA3F3D7405/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009379729/A63E8FDC73A6AE2E390DAC140E9EA4105621AC0C/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": null
-				}
-			],
-			"children": [
-				null,
-				null,
-				null,
-				null
-			]
-		},
-		{
-			"nickname": "VIK_HUSCARL",
-			"id": "mrqoll135hfcs",
-			"tipo": "CP",
-			"ruolo": "normale",
-			"groupId": "Fig3_4x3",
-			"base": {
-				"kind": "model",
-				"meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-				"diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-				"colliderURL": "",
-				"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-				"assetBundleSecondaryURL": "",
-				"rotY_fix": null
-			},
-			"slots": [
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": 0
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": 0
-				},
-				{
-					"kind": "bundle",
-					"meshURL": "",
-					"diffuseURL": "",
-					"colliderURL": "",
-					"assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-					"assetBundleSecondaryURL": "",
-					"rotY_fix": 0
-				}
-			],
-			"children": [
-				null,
-				null,
-				null
-			]
-		}
-	]
+  "versione": "1.0-slim",
+  "name": "vichinghi",
+  "Tag": "VIK",
+  "modelli": [
+    {
+      "nickname": "VIK_GEN",
+      "id": "mrxrrukfa917s",
+      "tipo": "FP",
+      "ruolo": "generale",
+      "groupId": "Fig1_4x3",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "model",
+          "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
+          "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
+          "colliderURL": "",
+          "assetBundleURL": "",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": 270
+        }
+      ],
+      "children": [
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_BERSERK",
+      "id": "mrxh6l7p6yi0h",
+      "tipo": "FM",
+      "ruolo": "normale",
+      "groupId": "Fig3_4x2",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600738725/6CEFB4C94D610FDCC6575805A133A14F9599175D/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791585127104/362E496FACE1FB4B1676820E494D09C94200BDE3/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        }
+      ],
+      "children": [
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_GIAV",
+      "id": "mrqour6unx8dl",
+      "tipo": "FL",
+      "ruolo": "normale",
+      "groupId": "Fig2_4x2",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        }
+      ],
+      "children": [
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_BONDI_MIX",
+      "id": "mrqorbgwt3x7g",
+      "tipo": "FP",
+      "ruolo": "normale",
+      "groupId": "Fig4_4x1.5",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9407064122000798857/C80DA35252D489FE6F83C0A15C77F9E901F9DCB8/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        }
+      ],
+      "children": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_BONDI_LAN",
+      "id": "mrqoq52jsr5ji",
+      "tipo": "FP",
+      "ruolo": "normale",
+      "groupId": "Fig4_4x1.5",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17209693354559107557/DF092B2FA2ECF61EF9563FA935AC2BB6A937A019/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        }
+      ],
+      "children": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_HUSCARL",
+      "id": "mrqoownfzv8nu",
+      "tipo": "FP",
+      "ruolo": "normale",
+      "groupId": "Fig4_4x1.5",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009403074/5736A09C3267331860775F91A8A48EDA3F3D7405/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009379729/A63E8FDC73A6AE2E390DAC140E9EA4105621AC0C/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221009378342/F00737DA91F7C6D6D534D75AFF20DEAC11096F95/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": null
+        }
+      ],
+      "children": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "nickname": "VIK_HUSCARL",
+      "id": "mrqoll135hfcs",
+      "tipo": "CP",
+      "ruolo": "normale",
+      "groupId": "Fig3_4x3",
+      "base": {
+        "kind": "model",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "assetBundleSecondaryURL": "",
+        "rotY_fix": null
+      },
+      "slots": [
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": 0
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": 0
+        },
+        {
+          "kind": "bundle",
+          "meshURL": "",
+          "diffuseURL": "",
+          "colliderURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+          "assetBundleSecondaryURL": "",
+          "rotY_fix": 0
+        }
+      ],
+      "children": [
+        null,
+        null,
+        null
+      ]
+    }
+  ]
 }
