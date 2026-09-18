@@ -4,7 +4,7 @@
   "Tag": "ANG",
   "modelli": [
     {
-      "nickname": "ANG_GEN",
+      "nickname": "ANG_GEN_FP",
       "id": "mrp3idzkv3i55",
       "tipo": "FP",
       "ruolo": "generale",
@@ -34,7 +34,7 @@
       ]
     },
     {
-      "nickname": "ANG_HUSCARL",
+      "nickname": "ANG_HUSCARL_CP",
       "id": "mrp3ct2gkcxu1",
       "tipo": "CP",
       "ruolo": "normale",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "nickname": "ANG_BOWS",
+      "nickname": "ANG_BOWS_FL",
       "id": "mrp301rxrmv48",
       "tipo": "FL",
       "ruolo": "normale",
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "nickname": "ANG_BOWS",
+      "nickname": "ANG_BOWS_FM",
       "id": "mrp2tvjnhix06",
       "tipo": "FM",
       "ruolo": "normale",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "nickname": "ANG_FYRD",
+      "nickname": "ANG_FYRD_FP",
       "id": "mrp2ouxp2imr0",
       "tipo": "FP",
       "ruolo": "normale",
@@ -234,7 +234,7 @@
       ]
     },
     {
-      "nickname": "ANG_HUSCARL",
+      "nickname": "ANG_HUSCARL_FP",
       "id": "mrp24buoe1syb",
       "tipo": "FP",
       "ruolo": "normale",
