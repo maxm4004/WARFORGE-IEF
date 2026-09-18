@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL",
+      "model": "VIK_HUSCARL_FP",
       "basi": [
         {
           "id": 1,
@@ -207,7 +207,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_LAN",
+      "model": "VIK_BONDI_FP_LAN",
       "basi": [
         {
           "id": 1,
@@ -382,7 +382,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_MIX",
+      "model": "VIK_BONDI_FP_MIX",
       "basi": [
         {
           "id": 1,
@@ -556,7 +556,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL",
+      "model": "VIK_HUSCARL_CP",
       "basi": [
         {
           "id": 1,
@@ -650,7 +650,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV",
+      "model": "VIK_GIAV_FL",
       "basi": [
         {
           "id": 1,
@@ -724,7 +724,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BERSERK",
+      "model": "VIK_BERSERK_FM",
       "basi_per_rango": 6,
       "basi": [
         {
@@ -795,7 +795,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi_per_rango": 1,
       "basi": [
         {
