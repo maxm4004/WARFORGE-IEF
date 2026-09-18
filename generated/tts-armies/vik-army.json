@@ -9,7 +9,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi": [
         {
           "id": 1,
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL",
+      "model": "VIK_HUSCARL_FP",
       "basi": [
         {
           "id": 1,
@@ -208,7 +208,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_LAN",
+      "model": "VIK_BONDI_FP_LAN",
       "basi": [
         {
           "id": 1,
@@ -384,7 +384,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_MIX",
+      "model": "VIK_BONDI_FP_MIX",
       "basi": [
         {
           "id": 1,
@@ -559,7 +559,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL",
+      "model": "VIK_HUSCARL_CP",
       "basi": [
         {
           "id": 1,
@@ -654,7 +654,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV",
+      "model": "VIK_GIAV_FL",
       "basi": [
         {
           "id": 1,
@@ -729,7 +729,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BERSERK",
+      "model": "VIK_BERSERK_FM",
       "basi_per_rango": 6,
       "basi": [
         {
@@ -801,7 +801,7 @@
       "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_GEN_FP",
       "basi_per_rango": 1,
       "basi": [
         {
@@ -818,7 +818,7 @@
     }
   ],
   "modelli": {
-    "VIK_GEN": {
+    "VIK_GEN_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -860,7 +860,7 @@
         }
       ]
     },
-    "VIK_HUSCARL": {
+    "VIK_HUSCARL_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -928,7 +928,7 @@
         }
       ]
     },
-    "VIK_BONDI_LAN": {
+    "VIK_BONDI_FP_LAN": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -996,7 +996,7 @@
         }
       ]
     },
-    "VIK_BONDI_MIX": {
+    "VIK_BONDI_FP_MIX": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1064,7 +1064,64 @@
         }
       ]
     },
-    "VIK_GIAV": {
+    "VIK_HUSCARL_CP": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+            "assetBundleSecondaryURL": "",
+            "material": 11,
+            "type": 1,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": -1.051,
+            "offsetY": 0.077,
+            "offsetZ": -0.173,
+            "rotY": 0
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+            "assetBundleSecondaryURL": "",
+            "material": 11,
+            "type": 1,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": -0.066,
+            "offsetY": 0.077,
+            "offsetZ": -0.175,
+            "rotY": 0
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
+            "assetBundleSecondaryURL": "",
+            "material": 11,
+            "type": 1,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": 0.974,
+            "offsetY": 0.077,
+            "offsetZ": -0.143,
+            "rotY": 0
+          }
+        }
+      ]
+    },
+    "VIK_GIAV_FL": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1104,7 +1161,7 @@
         }
       ]
     },
-    "VIK_BERSERK": {
+    "VIK_BERSERK_FM": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
