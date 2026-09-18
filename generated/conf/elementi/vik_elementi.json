@@ -4,7 +4,7 @@
   "Tag": "VIK",
   "modelli": [
     {
-      "nickname": "VIK_GEN",
+      "nickname": "VIK_GEN_FP",
       "id": "mrxrrukfa917s",
       "tipo": "FP",
       "ruolo": "generale",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "nickname": "VIK_BERSERK",
+      "nickname": "VIK_BERSERK_FM",
       "id": "mrxh6l7p6yi0h",
       "tipo": "FM",
       "ruolo": "normale",
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "nickname": "VIK_GIAV",
+      "nickname": "VIK_GIAV_FL",
       "id": "mrqour6unx8dl",
       "tipo": "FL",
       "ruolo": "normale",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "nickname": "VIK_BONDI_MIX",
+      "nickname": "VIK_BONDI_FP_MIX",
       "id": "mrqorbgwt3x7g",
       "tipo": "FP",
       "ruolo": "normale",
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "nickname": "VIK_BONDI_LAN",
+      "nickname": "VIK_BONDI_FP_LAN",
       "id": "mrqoq52jsr5ji",
       "tipo": "FP",
       "ruolo": "normale",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "nickname": "VIK_HUSCARL",
+      "nickname": "VIK_HUSCARL_FP",
       "id": "mrqoownfzv8nu",
       "tipo": "FP",
       "ruolo": "normale",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "nickname": "VIK_HUSCARL",
+      "nickname": "VIK_HUSCARL_CP",
       "id": "mrqoll135hfcs",
       "tipo": "CP",
       "ruolo": "normale",
