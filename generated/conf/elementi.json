@@ -84,7 +84,7 @@
           ]
         },
         {
-          "nickname": "ANG_BOWS",
+          "nickname": "ANG_BOWS_L",
           "id": "mrp301rxrmv48",
           "tipo": "FL",
           "groupId": "Fig2_4x2",
@@ -123,7 +123,7 @@
           ]
         },
         {
-          "nickname": "ANG_BOWS",
+          "nickname": "ANG_BOWS_M",
           "id": "mrp2tvjnhix06",
           "tipo": "FM",
           "groupId": "Fig3_4x2",
