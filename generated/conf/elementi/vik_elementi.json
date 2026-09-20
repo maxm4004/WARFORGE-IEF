@@ -232,9 +232,9 @@
           "meshURL": "",
           "diffuseURL": "",
           "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
           "assetBundleSecondaryURL": "",
-          "rotY_fix": 30
+          "rotY_fix": 29.79
         },
         {
           "kind": "bundle",
@@ -243,7 +243,7 @@
           "colliderURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17132781118894993301/785487A3A2F9C4C77627AFA77BC8F7BCBBC51D4E/",
           "assetBundleSecondaryURL": "",
-          "rotY_fix": 29.79
+          "rotY_fix": 30
         }
       ],
       "children": [
