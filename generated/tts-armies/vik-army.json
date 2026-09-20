@@ -208,7 +208,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_FP_L",
+      "model": "VIK_BONDI_FP_LAN",
       "basi": [
         {
           "id": 1,
@@ -384,7 +384,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_FP_X",
+      "model": "VIK_BONDI_FP_MIX",
       "basi": [
         {
           "id": 1,
@@ -862,7 +862,7 @@
     },
     "VIK_HUSCARL_FP": {
       "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "colliderURL": "",
         "material": 3,
@@ -928,7 +928,7 @@
         }
       ]
     },
-    "VIK_BONDI_FP_L": {
+    "VIK_BONDI_FP_LAN": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1000,7 +1000,7 @@
         }
       ]
     },
-    "VIK_BONDI_FP_X": {
+    "VIK_BONDI_FP_MIX": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1012,7 +1012,7 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12017264896197650471/E27D27B5687B5A19B50000A13A00F8C5B7544FE5/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
@@ -1057,7 +1057,7 @@
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12017264896197650471/E27D27B5687B5A19B50000A13A00F8C5B7544FE5/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
