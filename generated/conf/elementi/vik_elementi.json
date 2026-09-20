@@ -134,7 +134,7 @@
       ]
     },
     {
-      "nickname": "VIK_BONDI_FP_X",
+      "nickname": "VIK_BONDI_FP_MIX",
       "id": "mrqorbgwt3x7g",
       "tipo": "FP",
       "ruolo": "normale",
@@ -154,7 +154,7 @@
           "meshURL": "",
           "diffuseURL": "",
           "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12017264896197650471/E27D27B5687B5A19B50000A13A00F8C5B7544FE5/",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
           "assetBundleSecondaryURL": "",
           "rotY_fix": 75
         },
@@ -181,7 +181,7 @@
           "meshURL": "",
           "diffuseURL": "",
           "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12017264896197650471/E27D27B5687B5A19B50000A13A00F8C5B7544FE5/",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
           "assetBundleSecondaryURL": "",
           "rotY_fix": 75
         }
