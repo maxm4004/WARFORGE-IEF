@@ -207,7 +207,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_FP_LAN",
+      "model": "VIK_BONDI_LAN_FP",
       "basi": [
         {
           "id": 1,
@@ -382,7 +382,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_FP_MIX",
+      "model": "VIK_BONDI_MIX_FP",
       "basi": [
         {
           "id": 1,
