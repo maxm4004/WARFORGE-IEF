@@ -940,9 +940,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 1.144,
-            "offsetY": -0.007,
-            "offsetZ": -0.082
+            "offsetX": 0.85,
+            "offsetY": 0.005,
+            "offsetZ": 0.14
           }
         },
         {
@@ -954,9 +954,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": -0.502,
-            "offsetY": 0.03,
-            "offsetZ": -0.009
+            "offsetX": 0.08,
+            "offsetY": 0.02,
+            "offsetZ": 0.15
           }
         },
         {
@@ -968,9 +968,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": -1.337,
-            "offsetY": -0.008,
-            "offsetZ": -0.052
+            "offsetX": -1.54,
+            "offsetY": 0.02,
+            "offsetZ": 0.15
           }
         },
         {
@@ -982,9 +982,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0.357,
-            "offsetY": 0.029,
-            "offsetZ": -0.019
+            "offsetX": -0.75,
+            "offsetY": 0.05,
+            "offsetZ": 0.15
           }
         }
       ]
@@ -1008,9 +1008,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 1.144,
-            "offsetY": -0.007,
-            "offsetZ": -0.082
+            "offsetX": 0.85,
+            "offsetY": 0.005,
+            "offsetZ": 0.14
           }
         },
         {
@@ -1022,9 +1022,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": -0.502,
-            "offsetY": 0.03,
-            "offsetZ": -0.009
+            "offsetX": 0.08,
+            "offsetY": 0.02,
+            "offsetZ": 0.15
           }
         },
         {
@@ -1036,9 +1036,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": -1.337,
-            "offsetY": -0.008,
-            "offsetZ": -0.052
+            "offsetX": -1.54,
+            "offsetY": 0.02,
+            "offsetZ": 0.15
           }
         },
         {
@@ -1050,9 +1050,9 @@
             "scaleX": 0.75,
             "scaleY": 0.75,
             "scaleZ": 0.75,
-            "offsetX": 0.357,
-            "offsetY": 0.029,
-            "offsetZ": -0.019
+            "offsetX": -0.75,
+            "offsetY": 0.05,
+            "offsetZ": 0.15
           }
         }
       ]
