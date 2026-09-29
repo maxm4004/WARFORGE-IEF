@@ -168,7 +168,7 @@
         {
           "offsetX": 0.083,
           "offsetY": 0.017,
-          "offsetZ": 0.149,
+          "offsetZ": 149,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
@@ -186,9 +186,9 @@
           "scaleZ": 0.75
         },
         {
-          "offsetX": -0.746,
+          "offsetX": 0.35,
           "offsetY": 0.052,
-          "offsetZ": 0.147,
+          "offsetZ": 0.144,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
