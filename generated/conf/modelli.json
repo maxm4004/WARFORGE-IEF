@@ -157,8 +157,8 @@
       "slots": [
         {
           "offsetX": 0.85,
-          "offsetY": 0.005,
-          "offsetZ": 0.14,
+          "offsetY": 0.05,
+          "offsetZ": 0.15,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
