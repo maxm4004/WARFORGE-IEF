@@ -157,8 +157,8 @@
       "slots": [
         {
           "offsetX": 0.85,
-          "offsetY": 0.052,
-          "offsetZ": 0.144,
+          "offsetY": 0.005,
+          "offsetZ": 0.14,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
@@ -166,9 +166,9 @@
           "scaleZ": 0.75
         },
         {
-          "offsetX": 0.083,
-          "offsetY": 0.017,
-          "offsetZ": 149,
+          "offsetX": 0.08,
+          "offsetY": 0.02,
+          "offsetZ": 0.15,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
@@ -176,9 +176,9 @@
           "scaleZ": 0.75
         },
         {
-          "offsetX": -1.539,
-          "offsetY": 0.017,
-          "offsetZ": 0.152,
+          "offsetX": -1.54,
+          "offsetY": 0.02,
+          "offsetZ": 0.15,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
@@ -186,9 +186,9 @@
           "scaleZ": 0.75
         },
         {
-          "offsetX": 0.35,
-          "offsetY": 0.052,
-          "offsetZ": 0.144,
+          "offsetX": -0.75,
+          "offsetY": 0.05,
+          "offsetZ": 0.15,
           "material": 3,
           "type": 0,
           "scaleX": 0.75,
