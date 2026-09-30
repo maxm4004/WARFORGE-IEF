@@ -8,7 +8,7 @@
       "id": "mrxrrukfa917s",
       "tipo": "FP",
       "ruolo": "generale",
-      "groupId": "Fig1_4x3",
+      "groupId": "hbrpoig8f1cbf",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -48,7 +48,7 @@
       "id": "mrxh6l7p6yi0h",
       "tipo": "FM",
       "ruolo": "normale",
-      "groupId": "Fig3_4x2",
+      "groupId": "c38hyf9sxmeco",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -98,7 +98,7 @@
       "id": "mrqour6unx8dl",
       "tipo": "FL",
       "ruolo": "normale",
-      "groupId": "Fig2_4x2",
+      "groupId": "1vrjnvgfygwwq",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -138,7 +138,7 @@
       "id": "mrqorbgwt3x7g",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "Fig4_4x1.5",
+      "groupId": "sfogyr3xkxwnr",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
@@ -198,7 +198,7 @@
       "id": "mrqoq52jsr5ji",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "Fig4_4x1.5",
+      "groupId": "sfogyr3xkxwnr",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
@@ -258,7 +258,7 @@
       "id": "mrqoownfzv8nu",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "Fig4_4x1.5",
+      "groupId": "sfogyr3xkxwnr",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
@@ -318,7 +318,7 @@
       "id": "mrqoll135hfcs",
       "tipo": "CP",
       "ruolo": "normale",
-      "groupId": "Fig3_4x3",
+      "groupId": "ip98q1zxoi65f",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
