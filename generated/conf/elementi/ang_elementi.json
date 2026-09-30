@@ -196,7 +196,7 @@
           "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "rotY_fix": 270
+          "rotY_fix": 60
         },
         {
           "assetBundleSecondaryURL": "",
@@ -205,7 +205,7 @@
           "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "rotY_fix": 255
+          "rotY_fix": null
         },
         {
           "assetBundleSecondaryURL": "",
@@ -214,7 +214,7 @@
           "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "rotY_fix": 270
+          "rotY_fix": 60
         },
         {
           "assetBundleSecondaryURL": "",
@@ -223,7 +223,7 @@
           "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "rotY_fix": 255
+          "rotY_fix": null
         }
       ],
       "children": [
