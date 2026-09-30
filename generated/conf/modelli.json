@@ -365,6 +365,60 @@
           "scaleZ": 0.75
         }
       ]
+    },
+    "muo1e0ficd0s9": {
+      "name": "Fig4_4x1.5 - Fyrd",
+      "_note": "Fyrd",
+      "tipi": [
+        "FP"
+      ],
+      "base": {
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "slots": [
+        {
+          "offsetX": 1.13,
+          "offsetY": 0.04,
+          "offsetZ": -0.01,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": 0.3,
+          "offsetY": 0.04,
+          "offsetZ": -0.03,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": -0.5,
+          "offsetY": 0.04,
+          "offsetZ": 0.05,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        },
+        {
+          "offsetX": -1.33,
+          "offsetY": 0.04,
+          "offsetZ": 0,
+          "material": 3,
+          "type": 0,
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
+        }
+      ]
     }
   }
 }
