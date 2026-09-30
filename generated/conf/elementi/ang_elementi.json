@@ -5,27 +5,27 @@
   "modelli": [
     {
       "nickname": "ANG_GEN_FP",
-      "id": "mrp3idzkv3i55",
+      "id": "7d42bz43xmqtfbz",
       "tipo": "FP",
       "ruolo": "generale",
       "groupId": "hbrpoig8f1cbf",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600462643/6D1E89D18AF3583784148E72B94F5C670AFC214A/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600462643/6D1E89D18AF3583784148E72B94F5C670AFC214A/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": null
         }
       ],
@@ -35,45 +35,45 @@
     },
     {
       "nickname": "ANG_HUSCARL_CP",
-      "id": "mrp3ct2gkcxu1",
+      "id": "0nonl2lx3dseapc",
       "tipo": "CP",
       "ruolo": "normale",
       "groupId": "ip98q1zxoi65f",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 0
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 0
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 0
         }
       ],
@@ -85,36 +85,36 @@
     },
     {
       "nickname": "ANG_BOWS_FL",
-      "id": "mrp301rxrmv48",
+      "id": "rw2ic8zgfcso0qx",
       "tipo": "FL",
       "ruolo": "normale",
       "groupId": "1vrjnvgfygwwq",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420644642/3AE3BADBFEDE2D6D5A655927911F667042CAF5CD/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420644642/3AE3BADBFEDE2D6D5A655927911F667042CAF5CD/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 75
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420723685/8DFF0EE11B4CC9ACBD5F390EFF6B0F3007ED5BD0/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/950707567420723685/8DFF0EE11B4CC9ACBD5F390EFF6B0F3007ED5BD0/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 61
         }
       ],
@@ -125,45 +125,45 @@
     },
     {
       "nickname": "ANG_BOWS_FM",
-      "id": "mrp2tvjnhix06",
+      "id": "sfdtz45dwp79pax",
       "tipo": "FM",
       "ruolo": "normale",
       "groupId": "c38hyf9sxmeco",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 50
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 50
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": 50
         }
       ],
@@ -175,55 +175,55 @@
     },
     {
       "nickname": "ANG_FYRD_FP",
-      "id": "mrp2ouxp2imr0",
+      "id": "18a3eghgzpw0anr",
       "tipo": "FP",
       "ruolo": "normale",
       "groupId": "muo1j2bpd26gm",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
-          "kind": "bundle",
-          "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600411232/F07B07A2F324104DE23E8F7A109DD0E9FC5F8615/",
-          "assetBundleSecondaryURL": "",
-          "rotY_fix": null
-        },
-        {
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "rotY_fix": 270
+        },
+        {
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
-          "assetBundleSecondaryURL": "",
-          "rotY_fix": null
-        },
-        {
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "rotY_fix": 255
+        },
+        {
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600411232/F07B07A2F324104DE23E8F7A109DD0E9FC5F8615/",
-          "assetBundleSecondaryURL": "",
-          "rotY_fix": null
-        },
-        {
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+          "rotY_fix": 270
+        },
+        {
           "assetBundleSecondaryURL": "",
-          "rotY_fix": null
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+          "colliderURL": "",
+          "diffuseURL": "",
+          "kind": "bundle",
+          "meshURL": "",
+          "rotY_fix": 255
         }
       ],
       "children": [
@@ -235,54 +235,54 @@
     },
     {
       "nickname": "ANG_HUSCARL_FP",
-      "id": "mrp24buoe1syb",
+      "id": "k9e39rfzsb32hf6",
       "tipo": "FP",
       "ruolo": "normale",
       "groupId": "sfogyr3xkxwnr",
       "base": {
+        "assetBundleSecondaryURL": "",
+        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
+        "colliderURL": "",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
-        "assetBundleSecondaryURL": "",
         "rotY_fix": null
       },
       "slots": [
         {
-          "kind": "bundle",
-          "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
-          "assetBundleSecondaryURL": "",
+          "colliderURL": "",
+          "diffuseURL": "",
+          "kind": "bundle",
+          "meshURL": "",
           "rotY_fix": null
         },
         {
-          "kind": "bundle",
-          "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
-          "assetBundleSecondaryURL": "",
+          "colliderURL": "",
+          "diffuseURL": "",
+          "kind": "bundle",
+          "meshURL": "",
           "rotY_fix": null
         },
         {
-          "kind": "bundle",
-          "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
+          "assetBundleSecondaryURL": "",
           "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
-          "assetBundleSecondaryURL": "",
+          "colliderURL": "",
+          "diffuseURL": "",
+          "kind": "bundle",
+          "meshURL": "",
           "rotY_fix": null
         },
         {
+          "assetBundleSecondaryURL": "",
+          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
+          "colliderURL": "",
+          "diffuseURL": "",
           "kind": "bundle",
           "meshURL": "",
-          "diffuseURL": "",
-          "colliderURL": "",
-          "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
-          "assetBundleSecondaryURL": "",
           "rotY_fix": null
         }
       ],
