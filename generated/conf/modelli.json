@@ -157,7 +157,7 @@
       "base": {
         "material": 3,
         "type": 0,
-        "scaleZ": 1
+        "scaleZ": 1.5
       },
       "slots": [
         {
@@ -168,7 +168,7 @@
           "type": 0,
           "scaleX": 0.7,
           "scaleY": 0.7,
-          "scaleZ": 0.67
+          "scaleZ": 0.7
         },
         {
           "offsetX": -0.278,
@@ -178,7 +178,7 @@
           "type": 0,
           "scaleX": 0.7,
           "scaleY": 0.7,
-          "scaleZ": 0.7
+          "scaleZ": 0.67
         },
         {
           "offsetX": 0.481,
@@ -195,7 +195,7 @@
           "offsetY": 0.671,
           "offsetZ": -0.09,
           "material": 3,
-          "type": 0,
+          "type": 1,
           "scaleX": 0.7,
           "scaleY": 0.7,
           "scaleZ": 0.7
