@@ -928,7 +928,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 0.5
+        "scaleZ": 1
       },
       "children": [
         {
@@ -996,7 +996,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 0.5
+        "scaleZ": 1
       },
       "children": [
         {
@@ -1005,12 +1005,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -1.084,
-            "offsetY": 0.671,
-            "offsetZ": -0.089
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 1.13,
+            "offsetY": 0.04,
+            "offsetZ": -0.01
           }
         },
         {
@@ -1019,12 +1019,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -0.278,
-            "offsetY": 0.671,
-            "offsetZ": -0.092
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.3,
+            "offsetY": 0.04,
+            "offsetZ": -0.03
           }
         },
         {
@@ -1033,12 +1033,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 0.481,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.5,
+            "offsetY": 0.04,
+            "offsetZ": 0.05
           }
         },
         {
@@ -1047,12 +1047,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 1.226,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.33,
+            "offsetY": 0.04,
+            "offsetZ": 0
           }
         }
       ]
