@@ -834,9 +834,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.042,
             "offsetY": 0.077,
             "offsetZ": -0.007
@@ -849,9 +849,9 @@
             "colliderURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.018,
             "offsetY": 0.045,
             "offsetZ": 0.7,
@@ -878,10 +878,10 @@
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 0.85,
-            "offsetY": 0.05,
-            "offsetZ": 0.15
+            "scaleZ": 0.67,
+            "offsetX": -1.084,
+            "offsetY": 0.671,
+            "offsetZ": -0.089
           }
         },
         {
@@ -893,9 +893,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.08,
-            "offsetY": 0.02,
-            "offsetZ": 0.15
+            "offsetX": -0.278,
+            "offsetY": 0.671,
+            "offsetZ": -0.092
           }
         },
         {
@@ -907,9 +907,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.54,
-            "offsetY": 0.02,
-            "offsetZ": 0.15
+            "offsetX": 0.481,
+            "offsetY": 0.671,
+            "offsetZ": -0.09
           }
         },
         {
@@ -921,9 +921,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.75,
-            "offsetY": 0.05,
-            "offsetZ": 0.15
+            "offsetX": 1.226,
+            "offsetY": 0.671,
+            "offsetZ": -0.09
           }
         }
       ]
@@ -946,10 +946,10 @@
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 0.85,
-            "offsetY": 0.05,
-            "offsetZ": 0.15,
+            "scaleZ": 0.67,
+            "offsetX": -1.084,
+            "offsetY": 0.671,
+            "offsetZ": -0.089,
             "rotY": 29.73
           }
         },
@@ -962,9 +962,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.08,
-            "offsetY": 0.02,
-            "offsetZ": 0.15,
+            "offsetX": -0.278,
+            "offsetY": 0.671,
+            "offsetZ": -0.092,
             "rotY": 30
           }
         },
@@ -977,9 +977,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.54,
-            "offsetY": 0.02,
-            "offsetZ": 0.15,
+            "offsetX": 0.481,
+            "offsetY": 0.671,
+            "offsetZ": -0.09,
             "rotY": 29.79
           }
         },
@@ -992,9 +992,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.75,
-            "offsetY": 0.05,
-            "offsetZ": 0.15,
+            "offsetX": 1.226,
+            "offsetY": 0.671,
+            "offsetZ": -0.09,
             "rotY": 30
           }
         }
@@ -1018,10 +1018,10 @@
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 0.85,
-            "offsetY": 0.05,
-            "offsetZ": 0.15,
+            "scaleZ": 0.67,
+            "offsetX": -1.084,
+            "offsetY": 0.671,
+            "offsetZ": -0.089,
             "rotY": 75
           }
         },
@@ -1034,9 +1034,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.08,
-            "offsetY": 0.02,
-            "offsetZ": 0.15,
+            "offsetX": -0.278,
+            "offsetY": 0.671,
+            "offsetZ": -0.092,
             "rotY": 27.79
           }
         },
@@ -1049,9 +1049,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.54,
-            "offsetY": 0.02,
-            "offsetZ": 0.15,
+            "offsetX": 0.481,
+            "offsetY": 0.671,
+            "offsetZ": -0.09,
             "rotY": 75
           }
         },
@@ -1064,9 +1064,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.75,
-            "offsetY": 0.05,
-            "offsetZ": 0.15,
+            "offsetX": 1.226,
+            "offsetY": 0.671,
+            "offsetZ": -0.09,
             "rotY": 27.79
           }
         }
@@ -1088,9 +1088,9 @@
             "assetBundleSecondaryURL": "",
             "material": 11,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -1.051,
             "offsetY": 0.077,
             "offsetZ": -0.173,
@@ -1103,9 +1103,9 @@
             "assetBundleSecondaryURL": "",
             "material": 11,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.066,
             "offsetY": 0.077,
             "offsetZ": -0.175,
@@ -1118,9 +1118,9 @@
             "assetBundleSecondaryURL": "",
             "material": 11,
             "type": 1,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.974,
             "offsetY": 0.077,
             "offsetZ": -0.143,
@@ -1145,9 +1145,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.816,
             "offsetY": 0.073,
             "offsetZ": -0.035
@@ -1159,9 +1159,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.832,
             "offsetY": 0.077,
             "offsetZ": -0.035
@@ -1185,9 +1185,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": -0.942,
             "offsetY": 0.671,
             "offsetZ": -0.076
@@ -1199,9 +1199,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 0.074,
             "offsetY": 0.671,
             "offsetZ": -0.113
@@ -1213,9 +1213,9 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
             "offsetX": 1.112,
             "offsetY": 0.671,
             "offsetZ": -0.046
