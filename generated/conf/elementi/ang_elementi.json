@@ -8,7 +8,7 @@
       "id": "mrp3idzkv3i55",
       "tipo": "FP",
       "ruolo": "generale",
-      "groupId": "Fig1_4x3",
+      "groupId": "hbrpoig8f1cbf",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -38,7 +38,7 @@
       "id": "mrp3ct2gkcxu1",
       "tipo": "CP",
       "ruolo": "normale",
-      "groupId": "Fig3_4x3",
+      "groupId": "ip98q1zxoi65f",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -88,7 +88,7 @@
       "id": "mrp301rxrmv48",
       "tipo": "FL",
       "ruolo": "normale",
-      "groupId": "Fig2_4x2",
+      "groupId": "1vrjnvgfygwwq",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -128,7 +128,7 @@
       "id": "mrp2tvjnhix06",
       "tipo": "FM",
       "ruolo": "normale",
-      "groupId": "Fig3_4x2",
+      "groupId": "c38hyf9sxmeco",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -178,7 +178,7 @@
       "id": "mrp2ouxp2imr0",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "Fig4_4x1.5",
+      "groupId": "sfogyr3xkxwnr",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
@@ -238,7 +238,7 @@
       "id": "mrp24buoe1syb",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "Fig4_4x1.5",
+      "groupId": "sfogyr3xkxwnr",
       "base": {
         "kind": "model",
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
