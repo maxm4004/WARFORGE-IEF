@@ -6,10 +6,11 @@
     {
       "nome_display": "Generale CnC",
       "tipo": "FP",
-      "morale": null,
+      "morale": "",
       "armi": [],
       "modificatore": "",
       "model": "ANG_GEN_FP",
+      "basi_per_rango": 1,
       "basi": [
         {
           "id": 1,
@@ -21,8 +22,7 @@
             "z": 0
           }
         }
-      ],
-      "basi_per_rango": 1
+      ]
     },
     {
       "nome_display": "Huscarls",
@@ -34,6 +34,7 @@
       ],
       "modificatore": "",
       "model": "ANG_HUSCARL_FP",
+      "basi_per_rango": 8,
       "basi": [
         {
           "id": 1,
@@ -195,8 +196,7 @@
             "z": 1.5
           }
         }
-      ],
-      "basi_per_rango": 8
+      ]
     },
     {
       "nome_display": "Fyrd Scelto",
@@ -208,6 +208,7 @@
       ],
       "modificatore": "",
       "model": "ANG_FYRD_FP",
+      "basi_per_rango": 8,
       "basi": [
         {
           "id": 1,
@@ -449,8 +450,7 @@
             "z": 3
           }
         }
-      ],
-      "basi_per_rango": 8
+      ]
     },
     {
       "nome_display": "Arcieri Sassoni",
@@ -461,6 +461,7 @@
       ],
       "modificatore": "",
       "model": "ANG_BOWS_FM",
+      "basi_per_rango": 6,
       "basi": [
         {
           "id": 1,
@@ -642,8 +643,7 @@
             "z": 4
           }
         }
-      ],
-      "basi_per_rango": 6
+      ]
     },
     {
       "nome_display": "Schermagliatori con Arco",
@@ -654,6 +654,7 @@
       ],
       "modificatore": "",
       "model": "ANG_BOWS_FL",
+      "basi_per_rango": 6,
       "basi": [
         {
           "id": 1,
@@ -715,8 +716,7 @@
             "z": 0
           }
         }
-      ],
-      "basi_per_rango": 6
+      ]
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -728,6 +728,7 @@
       ],
       "modificatore": "",
       "model": "ANG_HUSCARL_CP",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -849,13 +850,12 @@
             "z": 6
           }
         }
-      ],
-      "basi_per_rango": 4
+      ]
     },
     {
       "nome_display": "Generali Subordinati",
       "tipo": "FP",
-      "morale": null,
+      "morale": "",
       "armi": [],
       "modificatore": "",
       "model": "ANG_GEN_FP",
