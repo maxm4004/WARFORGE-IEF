@@ -19,9 +19,9 @@
           "offsetZ": -0.007,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         },
         {
           "offsetX": 0.018,
@@ -29,9 +29,9 @@
           "offsetZ": 0.7,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         }
       ]
     },
@@ -52,9 +52,9 @@
           "offsetZ": 0,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         },
         {
           "offsetX": 0,
@@ -62,9 +62,9 @@
           "offsetZ": 0,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         }
       ]
     },
@@ -85,9 +85,9 @@
           "offsetZ": -0.035,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         },
         {
           "offsetX": -0.832,
@@ -95,9 +95,9 @@
           "offsetZ": -0.035,
           "material": 3,
           "type": 0,
-          "scaleX": 0.75,
-          "scaleY": 0.75,
-          "scaleZ": 0.75
+          "scaleX": 0.7,
+          "scaleY": 0.7,
+          "scaleZ": 0.7
         }
       ]
     },
