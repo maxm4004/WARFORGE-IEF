@@ -1011,7 +1011,7 @@
             "offsetX": -1.18,
             "offsetY": 0.04,
             "offsetZ": -0.02,
-            "rotY": 270
+            "rotY": 60
           }
         },
         {
@@ -1025,8 +1025,7 @@
             "scaleZ": 0.7,
             "offsetX": 0.3,
             "offsetY": 0.04,
-            "offsetZ": -0.03,
-            "rotY": 255
+            "offsetZ": -0.03
           }
         },
         {
@@ -1041,7 +1040,7 @@
             "offsetX": 0.32,
             "offsetY": 0.04,
             "offsetZ": -0.08,
-            "rotY": 270
+            "rotY": 60
           }
         },
         {
@@ -1055,8 +1054,7 @@
             "scaleZ": 0.7,
             "offsetX": 0.98,
             "offsetY": 0.04,
-            "offsetZ": -0.07,
-            "rotY": 255
+            "offsetZ": -0.07
           }
         }
       ]
