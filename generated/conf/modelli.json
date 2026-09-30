@@ -157,7 +157,7 @@
       "base": {
         "material": 3,
         "type": 0,
-        "scaleZ": 0.5
+        "scaleZ": 1
       },
       "slots": [
         {
