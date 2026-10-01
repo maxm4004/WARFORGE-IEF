@@ -6,11 +6,11 @@
     {
       "nome_display": "Generale CnC",
       "tipo": "FP",
-      "morale": "",
+      "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN_FP",
-      "basi_per_rango": 1,
+      "model": "",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -33,705 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL_FP",
-      "basi_per_rango": 8,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 1.5
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Fyrd Scelto",
-      "tipo": "FP",
-      "morale": "GUERRIERI",
-      "armi": [
-        "LANCIA",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "ANG_FYRD_FP",
-      "basi_per_rango": 8,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 17,
-          "seq": 17,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 18,
-          "seq": 18,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 19,
-          "seq": 19,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 20,
-          "seq": 20,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 21,
-          "seq": 21,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 22,
-          "seq": 22,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 23,
-          "seq": 23,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 3
-          }
-        },
-        {
-          "id": 24,
-          "seq": 24,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 3
-          }
-        }
-      ],
-      "numero_unita": 2
-    },
-    {
-      "nome_display": "Arcieri Sassoni",
-      "tipo": "FM",
-      "morale": "GUERRIERI",
-      "armi": [
-        "ARCO"
-      ],
-      "modificatore": "",
-      "model": "ANG_BOWS_FM",
-      "basi_per_rango": 6,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 4
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 4
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 4
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 4
-          }
-        },
-        {
-          "id": 17,
-          "seq": 17,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 4
-          }
-        },
-        {
-          "id": 18,
-          "seq": 18,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 4
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Schermagliatori con Arco",
-      "tipo": "FL",
-      "morale": "GUERRIERI",
-      "armi": [
-        "ARCO"
-      ],
-      "modificatore": "",
-      "model": "ANG_BOWS_FL",
-      "basi_per_rango": 6,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Huscarls a Cavallo",
-      "tipo": "CP",
-      "morale": "GUERRIERI",
-      "armi": [
-        "ARMI_CORTE",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "ANG_HUSCARL_CP",
+      "model": "",
       "basi_per_rango": 4,
       "basi": [
         {
@@ -781,7 +83,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -791,7 +93,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -801,7 +103,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -811,7 +113,7 @@
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -821,7 +123,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         },
         {
@@ -831,7 +133,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         },
         {
@@ -841,7 +143,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         },
         {
@@ -851,20 +153,63 @@
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 6
+            "z": 3
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
           }
         }
       ],
       "numero_unita": 1
     },
     {
-      "nome_display": "Generali Subordinati",
+      "nome_display": "Fyrd Scelto",
       "tipo": "FP",
-      "morale": "",
-      "armi": [],
+      "morale": "GUERRIERI",
+      "armi": [
+        "LANCIA",
+        "SCUDO"
+      ],
       "modificatore": "",
-      "model": "ANG_GEN_FP",
-      "basi_per_rango": 1,
+      "model": "",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -875,79 +220,241 @@
             "y": 0,
             "z": 0
           }
+        },
+        {
+          "id": 2,
+          "seq": 2,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 3,
+          "seq": 3,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 4,
+          "seq": 4,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 5,
+          "seq": 5,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 6,
+          "seq": 6,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 7,
+          "seq": 7,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 8,
+          "seq": 8,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 17,
+          "seq": 17,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 6
+          }
+        },
+        {
+          "id": 18,
+          "seq": 18,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 6
+          }
+        },
+        {
+          "id": 19,
+          "seq": 19,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 6
+          }
+        },
+        {
+          "id": 20,
+          "seq": 20,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 6
+          }
+        },
+        {
+          "id": 21,
+          "seq": 21,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 7.5
+          }
+        },
+        {
+          "id": 22,
+          "seq": 22,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 7.5
+          }
+        },
+        {
+          "id": 23,
+          "seq": 23,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 7.5
+          }
+        },
+        {
+          "id": 24,
+          "seq": 24,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 7.5
+          }
         }
-      ]
+      ],
+      "numero_unita": 2
     }
   ],
-  "modelli": {
-    "ANG_HUSCARL_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "material": 3,
-        "type": 0,
-        "scaleZ": 0.5
-      },
-      "children": [
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -1.084,
-            "offsetY": 0.671,
-            "offsetZ": -0.089
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -0.278,
-            "offsetY": 0.671,
-            "offsetZ": -0.092
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 0.481,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 1.226,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
-          }
-        }
-      ]
-    }
-  },
-  "orientamento": "Armi Bilanciate"
+  "modelli": {},
+  "orientamento": "Fanteria"
 }
