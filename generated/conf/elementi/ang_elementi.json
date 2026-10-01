@@ -5,7 +5,7 @@
   "modelli": [
     {
       "nickname": "ANG_GEN_FP",
-      "id": "7d42bz43xmqtfbz",
+      "id": "5kwdmfl8v976pu7",
       "tipo": "FP",
       "ruolo": "generale",
       "groupId": "hbrpoig8f1cbf",
@@ -35,7 +35,7 @@
     },
     {
       "nickname": "ANG_HUSCARL_CP",
-      "id": "0nonl2lx3dseapc",
+      "id": "b0td95als3ok96a",
       "tipo": "CP",
       "ruolo": "normale",
       "groupId": "ip98q1zxoi65f",
@@ -85,7 +85,7 @@
     },
     {
       "nickname": "ANG_BOWS_FL",
-      "id": "rw2ic8zgfcso0qx",
+      "id": "8nhjnlywu2r6nxc",
       "tipo": "FL",
       "ruolo": "normale",
       "groupId": "1vrjnvgfygwwq",
@@ -125,7 +125,7 @@
     },
     {
       "nickname": "ANG_BOWS_FM",
-      "id": "sfdtz45dwp79pax",
+      "id": "wkbfct0we158ie6",
       "tipo": "FM",
       "ruolo": "normale",
       "groupId": "c38hyf9sxmeco",
@@ -175,7 +175,7 @@
     },
     {
       "nickname": "ANG_FYRD_FP",
-      "id": "18a3eghgzpw0anr",
+      "id": "rqhbucbfn74r270",
       "tipo": "FP",
       "ruolo": "normale",
       "groupId": "muo1j2bpd26gm",
@@ -235,10 +235,10 @@
     },
     {
       "nickname": "ANG_HUSCARL_FP",
-      "id": "k9e39rfzsb32hf6",
+      "id": "mit2dp1s3jouj7z",
       "tipo": "FP",
       "ruolo": "normale",
-      "groupId": "sfogyr3xkxwnr",
+      "groupId": "sfogyr3xkxwnr00",
       "base": {
         "assetBundleSecondaryURL": "",
         "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/10403833574379648960/E5D11FE283F1DE3B4A51AF538D0883735967814E/",
