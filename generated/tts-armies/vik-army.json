@@ -6,11 +6,11 @@
     {
       "nome_display": "Generale CnC",
       "tipo": "FP",
-      "morale": "",
+      "morale": null,
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN_FP",
-      "basi_per_rango": 1,
+      "model": "",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -33,533 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_HUSCARL_FP",
-      "basi_per_rango": 8,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 1.5
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Bondi o Leidang Lancieri",
-      "tipo": "FP",
-      "morale": "GUERRIERI",
-      "armi": [
-        "LANCIA",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "VIK_BONDI_LAN_FP",
-      "basi_per_rango": 8,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 1.5
-          }
-        }
-      ],
-      "numero_unita": 2
-    },
-    {
-      "nome_display": "Bondi o Leidang Mista",
-      "tipo": "FP",
-      "morale": "GUERRIERI",
-      "armi": [
-        "LANCIA",
-        "SCUDO",
-        "ARCO"
-      ],
-      "modificatore": "",
-      "model": "VIK_BONDI_MIX_FP",
-      "basi_per_rango": 8,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 13,
-          "seq": 13,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 14,
-          "seq": 14,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 15,
-          "seq": 15,
-          "guid": null,
-          "posizione": {
-            "x": 24,
-            "y": 0,
-            "z": 1.5
-          }
-        },
-        {
-          "id": 16,
-          "seq": 16,
-          "guid": null,
-          "posizione": {
-            "x": 28,
-            "y": 0,
-            "z": 1.5
-          }
-        }
-      ],
-      "numero_unita": 3
-    },
-    {
-      "nome_display": "Huscarls a Cavallo",
-      "tipo": "CP",
-      "morale": "VETERANI",
-      "armi": [
-        "ARMI_CORTE",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "VIK_HUSCARL_CP",
+      "model": "",
       "basi_per_rango": 4,
       "basi": [
         {
@@ -609,7 +83,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -619,7 +93,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -629,7 +103,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 3
+            "z": 1.5
           }
         },
         {
@@ -639,23 +113,103 @@
           "posizione": {
             "x": 12,
             "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
             "z": 3
           }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
+          }
         }
       ],
       "numero_unita": 1
     },
     {
-      "nome_display": "Schermagliatori con Giavellotto",
-      "tipo": "FL",
+      "nome_display": "Bondi o Leidang Lancieri",
+      "tipo": "FP",
       "morale": "GUERRIERI",
       "armi": [
-        "GIAVELLOTTO",
+        "LANCIA",
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "VIK_GIAV_FL",
-      "basi_per_rango": 6,
+      "model": "",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -702,107 +256,136 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
           "id": 6,
           "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Berserker",
-      "tipo": "FM",
-      "morale": "ELITE",
-      "armi": [
-        "ARMI_CORTE",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "VIK_BERSERK_FM",
-      "basi_per_rango": 6,
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
           "guid": null,
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
-          "id": 3,
-          "seq": 3,
+          "id": 7,
+          "seq": 7,
           "guid": null,
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
-          "id": 4,
-          "seq": 4,
+          "id": 8,
+          "seq": 8,
           "guid": null,
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
-          "id": 5,
-          "seq": 5,
+          "id": 9,
+          "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
-          "id": 6,
-          "seq": 6,
+          "id": 10,
+          "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 3
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
           }
         }
       ],
-      "numero_unita": 1
+      "numero_unita": 2
     },
     {
-      "nome_display": "Generale Subordinato",
+      "nome_display": "Bondi o Leidang Mista",
       "tipo": "FP",
-      "morale": "",
-      "armi": [],
+      "morale": "GUERRIERI",
+      "armi": [
+        "LANCIA",
+        "SCUDO",
+        "ARCO"
+      ],
       "modificatore": "",
-      "model": "VIK_GEN_FP",
-      "basi_per_rango": 1,
+      "model": "",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -813,182 +396,161 @@
             "y": 0,
             "z": 0
           }
+        },
+        {
+          "id": 2,
+          "seq": 2,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 3,
+          "seq": 3,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 4,
+          "seq": 4,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 5,
+          "seq": 5,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 6,
+          "seq": 6,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 7,
+          "seq": 7,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 8,
+          "seq": 8,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 1.5
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 3
+          }
+        },
+        {
+          "id": 13,
+          "seq": 13,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 14,
+          "seq": 14,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 15,
+          "seq": 15,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 4.5
+          }
+        },
+        {
+          "id": 16,
+          "seq": 16,
+          "guid": null,
+          "posizione": {
+            "x": 12,
+            "y": 0,
+            "z": 4.5
+          }
         }
-      ]
+      ],
+      "numero_unita": 3
     }
   ],
-  "modelli": {
-    "VIK_GEN_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "material": 3,
-        "type": 0,
-        "scaleZ": 1
-      },
-      "children": [
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -0.042,
-            "offsetY": 0.077,
-            "offsetZ": -0.007
-          }
-        },
-        {
-          "customMesh": {
-            "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
-            "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
-            "colliderURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 0.018,
-            "offsetY": 0.045,
-            "offsetZ": 0.7,
-            "rotY": 270
-          }
-        }
-      ]
-    },
-    "VIK_BONDI_LAN_FP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "material": 3,
-        "type": 0,
-        "scaleZ": 1
-      },
-      "children": [
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": -1.06,
-            "offsetY": -0.01,
-            "offsetZ": -0.07,
-            "rotY": 29.73
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17132781118894993301/785487A3A2F9C4C77627AFA77BC8F7BCBBC51D4E/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": -0.36,
-            "offsetY": 0.03,
-            "offsetZ": -0.01,
-            "rotY": 30
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 0.39,
-            "offsetY": -0.01,
-            "offsetZ": -0.02,
-            "rotY": 29.79
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17132781118894993301/785487A3A2F9C4C77627AFA77BC8F7BCBBC51D4E/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 1.1,
-            "offsetY": 0.03,
-            "offsetZ": -0.05,
-            "rotY": 30
-          }
-        }
-      ]
-    },
-    "VIK_HUSCARL_CP": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "material": 3,
-        "type": 0,
-        "scaleZ": 1
-      },
-      "children": [
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-            "assetBundleSecondaryURL": "",
-            "material": 11,
-            "type": 1,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -1.051,
-            "offsetY": 0.077,
-            "offsetZ": -0.173,
-            "rotY": 0
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-            "assetBundleSecondaryURL": "",
-            "material": 11,
-            "type": 1,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -0.066,
-            "offsetY": 0.077,
-            "offsetZ": -0.175,
-            "rotY": 0
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600449731/E21475C01955B8F9638A57497F4DE759FC91CC37/",
-            "assetBundleSecondaryURL": "",
-            "material": 11,
-            "type": 1,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 0.974,
-            "offsetY": 0.077,
-            "offsetZ": -0.143,
-            "rotY": 0
-          }
-        }
-      ]
-    }
-  },
-  "orientamento": "Armi Bilanciate"
+  "modelli": {},
+  "orientamento": "Fanteria"
 }
