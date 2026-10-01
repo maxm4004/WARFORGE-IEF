@@ -6,10 +6,11 @@
     {
       "nome_display": "Generale CnC",
       "tipo": "FP",
-      "morale": null,
+      "morale": "",
       "armi": [],
       "modificatore": "",
       "model": "VIK_GEN_FP",
+      "basi_per_rango": 1,
       "basi": [
         {
           "id": 1,
@@ -21,8 +22,7 @@
             "z": 0
           }
         }
-      ],
-      "basi_per_rango": 1
+      ]
     },
     {
       "nome_display": "Huscarls",
@@ -34,6 +34,7 @@
       ],
       "modificatore": "",
       "model": "VIK_HUSCARL_FP",
+      "basi_per_rango": 8,
       "basi": [
         {
           "id": 1,
@@ -195,8 +196,7 @@
             "z": 1.5
           }
         }
-      ],
-      "basi_per_rango": 8
+      ]
     },
     {
       "nome_display": "Bondi o Leidang Lancieri",
@@ -208,6 +208,7 @@
       ],
       "modificatore": "",
       "model": "VIK_BONDI_LAN_FP",
+      "basi_per_rango": 8,
       "basi": [
         {
           "id": 1,
@@ -369,8 +370,7 @@
             "z": 1.5
           }
         }
-      ],
-      "basi_per_rango": 8
+      ]
     },
     {
       "nome_display": "Bondi o Leidang Mista",
@@ -383,6 +383,7 @@
       ],
       "modificatore": "",
       "model": "VIK_BONDI_MIX_FP",
+      "basi_per_rango": 8,
       "basi": [
         {
           "id": 1,
@@ -544,8 +545,7 @@
             "z": 1.5
           }
         }
-      ],
-      "basi_per_rango": 8
+      ]
     },
     {
       "nome_display": "Huscarls a Cavallo",
@@ -557,6 +557,7 @@
       ],
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
+      "basi_per_rango": 4,
       "basi": [
         {
           "id": 1,
@@ -638,8 +639,7 @@
             "z": 3
           }
         }
-      ],
-      "basi_per_rango": 4
+      ]
     },
     {
       "nome_display": "Schermagliatori con Giavellotto",
@@ -651,6 +651,7 @@
       ],
       "modificatore": "",
       "model": "VIK_GIAV_FL",
+      "basi_per_rango": 6,
       "basi": [
         {
           "id": 1,
@@ -712,8 +713,7 @@
             "z": 0
           }
         }
-      ],
-      "basi_per_rango": 6
+      ]
     },
     {
       "nome_display": "Berserker",
@@ -792,7 +792,7 @@
     {
       "nome_display": "Generale Subordinato",
       "tipo": "FP",
-      "morale": null,
+      "morale": "",
       "armi": [],
       "modificatore": "",
       "model": "VIK_GEN_FP",
