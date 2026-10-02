@@ -1,5 +1,5 @@
 {
-  "versione": "1.0.0",
+  "versione": "2.0-IEF",
   "nome": "Anglosassoni",
   "tag": "ANG",
   "unita": [
@@ -879,7 +879,7 @@
       ]
     }
   ],
-  "modelli": {
+  "elementi": {
     "ANG_GEN_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -1095,7 +1095,7 @@
             "scaleZ": 0.7,
             "offsetX": 0.03,
             "offsetY": 0.04,
-            "offsetZ": -0.30,
+            "offsetZ": -0.3,
             "rotY": 50
           }
         },
@@ -1110,7 +1110,7 @@
             "scaleZ": 0.7,
             "offsetX": 1.07,
             "offsetY": 0.04,
-            "offsetZ": -0.20,
+            "offsetZ": -0.2,
             "rotY": 50
           }
         }
