@@ -1,5 +1,5 @@
 {
-  "versione": "2.0-IEF",
+  "versione": "ANG.1.0.0",
   "nome": "Anglosassoni",
   "tag": "ANG",
   "unita": [
@@ -882,8 +882,8 @@
   "modelli": {
     "ANG_GEN_FP": {
       "customMesh": {
-        "meshURL": "",
-        "diffuseURL": "",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "colliderURL": "",
         "material": 3,
         "type": 0,
@@ -891,10 +891,9 @@
       },
       "children": [
         {
-          "customMesh": {
-            "meshURL": "",
-            "diffuseURL": "",
-            "colliderURL": "",
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600462643/6D1E89D18AF3583784148E72B94F5C670AFC214A/",
+            "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.75,
@@ -938,12 +937,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -1.084,
-            "offsetY": 0.671,
-            "offsetZ": -0.089
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.77,
+            "offsetY": 0.02,
+            "offsetZ": 0.08
           }
         },
         {
@@ -952,12 +951,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": -0.278,
-            "offsetY": 0.671,
-            "offsetZ": -0.092
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.67,
+            "offsetX": 0.02,
+            "offsetY": 0.05,
+            "offsetZ": 0.08
           }
         },
         {
@@ -966,12 +965,12 @@
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 0.481,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.75,
+            "offsetY": 0.02,
+            "offsetZ": 0.09
           }
         },
         {
@@ -979,13 +978,13 @@
             "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
             "assetBundleSecondaryURL": "",
             "material": 3,
-            "type": 0,
-            "scaleX": 0.75,
-            "scaleY": 0.75,
-            "scaleZ": 0.75,
-            "offsetX": 1.226,
-            "offsetY": 0.671,
-            "offsetZ": -0.09
+            "type": 1,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.42,
+            "offsetY": 0.05,
+            "offsetZ": 0.1
           }
         }
       ]
@@ -1009,9 +1008,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0,
+            "offsetX": -1.15,
+            "offsetY": 0.04,
+            "offsetZ": -0.04,
             "rotY": 60
           }
         },
@@ -1024,9 +1023,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0
+            "offsetX": -0.5,
+            "offsetY": 0.04,
+            "offsetZ": -0.01
           }
         },
         {
@@ -1038,9 +1037,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0,
+            "offsetX": 0.31,
+            "offsetY": 0.04,
+            "offsetZ": -0.09,
             "rotY": 60
           }
         },
@@ -1053,9 +1052,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0,
-            "offsetY": 0,
-            "offsetZ": 0
+            "offsetX": 1.03,
+            "offsetY": 0.04,
+            "offsetZ": -0.03
           }
         }
       ]
@@ -1067,7 +1066,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 1
+        "scaleZ": 0.66
       },
       "children": [
         {
@@ -1124,7 +1123,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 1
+        "scaleZ": 0.66
       },
       "children": [
         {
