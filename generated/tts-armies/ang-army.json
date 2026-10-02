@@ -1066,7 +1066,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 0.66
+        "scaleZ": 1
       },
       "children": [
         {
@@ -1123,7 +1123,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 0.66
+        "scaleZ": 1
       },
       "children": [
         {
