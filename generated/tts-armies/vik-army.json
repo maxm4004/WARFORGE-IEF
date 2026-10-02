@@ -9,7 +9,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_GEN_FP",
       "basi_per_rango": 1,
       "basi": [
         {
@@ -33,7 +33,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_HUSCARL_FP",
       "basi_per_rango": 8,
       "basi": [
         {
@@ -208,7 +208,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_BONDI_LAN_FP",
       "basi_per_rango": 8,
       "basi": [
         {
@@ -384,7 +384,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_BONDI_MIX_FP",
       "basi_per_rango": 8,
       "basi": [
         {
@@ -559,7 +559,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
       "basi": [
         {
@@ -654,7 +654,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_GIAV_FL",
       "basi_per_rango": 6,
       "basi": [
         {
@@ -729,7 +729,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_BERSERK_FM",
       "basi_per_rango": 6,
       "basi": [
         {
@@ -801,7 +801,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "",
+      "model": "VIK_GEN_FP",
       "basi_per_rango": 1,
       "basi": [
         {
@@ -817,6 +817,193 @@
       ]
     }
   ],
-  "modelli": {},
+  "modelli": {
+    "VIK_GEN_FP": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": -0.042,
+            "offsetY": 0.077,
+            "offsetZ": -0.007
+          }
+        },
+        {
+          "customMesh": {
+            "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
+            "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "scaleZ": 0.75,
+            "offsetX": 0.018,
+            "offsetY": 0.045,
+            "offsetZ": 0.7,
+            "rotY": 270
+          }
+        }
+      ]
+    },
+    "VIK_BONDI_LAN_FP": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.06,
+            "offsetY": -0.01,
+            "offsetZ": -0.07,
+            "rotY": 29.73
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17132781118894993301/785487A3A2F9C4C77627AFA77BC8F7BCBBC51D4E/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.36,
+            "offsetY": 0.03,
+            "offsetZ": -0.01,
+            "rotY": 30
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12394038155916565262/CD80D98B634155335089C76A29DB4B93C0EC6E02/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.39,
+            "offsetY": -0.01,
+            "offsetZ": -0.02,
+            "rotY": 29.79
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/17132781118894993301/785487A3A2F9C4C77627AFA77BC8F7BCBBC51D4E/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 1.1,
+            "offsetY": 0.03,
+            "offsetZ": -0.05,
+            "rotY": 30
+          }
+        }
+      ]
+    },
+    "VIK_BONDI_MIX_FP": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.09,
+            "offsetY": 0.04,
+            "offsetZ": -0.11,
+            "rotY": 75
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.42,
+            "offsetY": -0.01,
+            "offsetZ": -0.11,
+            "rotY": 27.79
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.43,
+            "offsetY": 0.04,
+            "offsetZ": -0.11,
+            "rotY": 75
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 1.11,
+            "offsetY": -0.01,
+            "offsetZ": -0.16,
+            "rotY": 27.79
+          }
+        }
+      ]
+    }
+  },
   "orientamento": "Armi Bilanciate"
 }
