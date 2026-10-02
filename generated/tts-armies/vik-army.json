@@ -881,7 +881,8 @@
             "scaleZ": 0.7,
             "offsetX": 1.23,
             "offsetY": 0.04,
-            "offsetZ": 0.01
+            "offsetZ": 0.01,
+            "rotY": 230
           }
         },
         {
@@ -895,7 +896,8 @@
             "scaleZ": 0.7,
             "offsetX": 0.46,
             "offsetY": 0.04,
-            "offsetZ": 0.01
+            "offsetZ": 0.01,
+            "rotY": 230
           }
         },
         {
@@ -909,7 +911,8 @@
             "scaleZ": 0.7,
             "offsetX": -0.31,
             "offsetY": 0.04,
-            "offsetZ": 0.02
+            "offsetZ": 0.02,
+            "rotY": 230
           }
         },
         {
@@ -923,7 +926,8 @@
             "scaleZ": 0.7,
             "offsetX": -1.08,
             "offsetY": 0.04,
-            "offsetZ": 0.03
+            "offsetZ": 0.03,
+            "rotY": 230
           }
         }
       ]
