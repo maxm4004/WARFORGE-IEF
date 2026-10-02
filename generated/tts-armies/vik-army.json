@@ -1,5 +1,5 @@
 {
-  "versione": "1.0.0",
+  "versione": "2.0-IEF",
   "nome": "Vichinghi",
   "tag": "VIK",
   "unita": [
@@ -817,7 +817,7 @@
       ]
     }
   ],
-  "modelli": {
+  "elementi": {
     "VIK_GEN_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
