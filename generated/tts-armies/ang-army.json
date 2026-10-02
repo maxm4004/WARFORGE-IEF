@@ -1066,7 +1066,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 1
+        "scaleZ": 0.66
       },
       "children": [
         {
@@ -1078,9 +1078,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.942,
-            "offsetY": 0.671,
-            "offsetZ": -0.076,
+            "offsetX": -1.04,
+            "offsetY": 0.04,
+            "offsetZ": -0.32,
             "rotY": 50
           }
         },
@@ -1093,9 +1093,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.074,
-            "offsetY": 0.671,
-            "offsetZ": -0.113,
+            "offsetX": 0.03,
+            "offsetY": 0.04,
+            "offsetZ": -0.30,
             "rotY": 50
           }
         },
@@ -1108,9 +1108,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 1.112,
-            "offsetY": 0.671,
-            "offsetZ": -0.046,
+            "offsetX": 1.07,
+            "offsetY": 0.04,
+            "offsetZ": -0.20,
             "rotY": 50
           }
         }
@@ -1123,7 +1123,7 @@
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 1
+        "scaleZ": 0.66
       },
       "children": [
         {
