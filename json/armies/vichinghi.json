@@ -13,7 +13,7 @@
       {
         "name": "Generale CnC",
         "commander": "CnC",
-        "type": "FP",
+        "type": "GEN",
         "morale": null,
         "weapons": [],
         "capabilities": [],
@@ -27,7 +27,7 @@
       {
         "name": "Generale Subordinato",
         "commander": "Sub",
-        "type": "FP",
+        "type": "GEN",
         "morale": null,
         "weapons": [],
         "capabilities": [],
