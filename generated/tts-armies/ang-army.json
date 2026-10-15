@@ -5,11 +5,11 @@
   "unita": [
     {
       "nome_display": "Generale CnC",
-      "tipo": "FP",
+      "tipo": "GEN",
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN_FP",
+      "model": "ANG_GEN",
       "basi_per_rango": 1,
       "basi": [
         {
@@ -859,11 +859,11 @@
     },
     {
       "nome_display": "Generali Subordinati",
-      "tipo": "FP",
+      "tipo": "GEN",
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "ANG_GEN_FP",
+      "model": "ANG_GEN",
       "basi_per_rango": 1,
       "basi": [
         {
@@ -880,7 +880,7 @@
     }
   ],
   "elementi": {
-    "ANG_GEN_FP": {
+    "ANG_GEN": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
