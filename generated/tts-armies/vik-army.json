@@ -36,7 +36,7 @@
       "modificatore": "",
       "model": "VIK_HUSCARL_FP",
       "basi_per_rango": 8,
-      "formazione": "linea",
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -83,9 +83,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -93,9 +93,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -103,9 +103,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -113,9 +113,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -125,7 +125,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -135,7 +135,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -145,7 +145,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -155,7 +155,7 @@
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -163,9 +163,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -173,9 +173,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -183,9 +183,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -193,9 +193,9 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         }
       ],
@@ -212,7 +212,7 @@
       "modificatore": "",
       "model": "VIK_BONDI_LAN_FP",
       "basi_per_rango": 8,
-      "formazione": "linea",
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -259,9 +259,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -269,9 +269,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -279,9 +279,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -289,9 +289,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -301,7 +301,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -311,7 +311,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -321,7 +321,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -331,7 +331,7 @@
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -339,9 +339,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -349,9 +349,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -359,9 +359,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -369,9 +369,9 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         }
       ],
@@ -389,7 +389,7 @@
       "modificatore": "",
       "model": "VIK_BONDI_MIX_FP",
       "basi_per_rango": 8,
-      "formazione": "linea",
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -436,9 +436,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -446,9 +446,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -456,9 +456,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -466,9 +466,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 0
+            "z": 1.5
           }
         },
         {
@@ -478,7 +478,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -488,7 +488,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -498,7 +498,7 @@
           "posizione": {
             "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -508,7 +508,7 @@
           "posizione": {
             "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 3
           }
         },
         {
@@ -516,9 +516,9 @@
           "seq": 13,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 0,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -526,9 +526,9 @@
           "seq": 14,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 4,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -536,9 +536,9 @@
           "seq": 15,
           "guid": null,
           "posizione": {
-            "x": 24,
+            "x": 8,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         },
         {
@@ -546,9 +546,9 @@
           "seq": 16,
           "guid": null,
           "posizione": {
-            "x": 28,
+            "x": 12,
             "y": 0,
-            "z": 1.5
+            "z": 4.5
           }
         }
       ],
@@ -565,7 +565,7 @@
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
-      "formazione": "linea",
+      "formazione": "colonna",
       "basi": [
         {
           "id": 1,
@@ -582,9 +582,9 @@
           "seq": 2,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 3
           }
         },
         {
@@ -592,9 +592,9 @@
           "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 6
           }
         },
         {
@@ -602,9 +602,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 9
           }
         },
         {
@@ -614,7 +614,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 3
+            "z": 12
           }
         },
         {
@@ -622,9 +622,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 3
+            "z": 15
           }
         },
         {
@@ -632,9 +632,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
-            "z": 3
+            "z": 18
           }
         },
         {
@@ -642,9 +642,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 0,
             "y": 0,
-            "z": 3
+            "z": 21
           }
         }
       ],
@@ -737,7 +737,7 @@
       "modificatore": "",
       "model": "VIK_BERSERK_FM",
       "basi_per_rango": 6,
-      "formazione": "linea",
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -774,9 +774,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 12,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -784,9 +784,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 16,
+            "x": 4,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -794,9 +794,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 20,
+            "x": 8,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         }
       ],
