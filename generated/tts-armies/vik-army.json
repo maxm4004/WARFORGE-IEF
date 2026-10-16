@@ -11,6 +11,7 @@
       "modificatore": "",
       "model": "VIK_GEN",
       "basi_per_rango": 1,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -35,6 +36,7 @@
       "modificatore": "",
       "model": "VIK_HUSCARL_FP",
       "basi_per_rango": 8,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -210,6 +212,7 @@
       "modificatore": "",
       "model": "VIK_BONDI_LAN_FP",
       "basi_per_rango": 8,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -386,6 +389,7 @@
       "modificatore": "",
       "model": "VIK_BONDI_MIX_FP",
       "basi_per_rango": 8,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -561,6 +565,7 @@
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -656,6 +661,7 @@
       "modificatore": "",
       "model": "VIK_GIAV_FL",
       "basi_per_rango": 6,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -731,6 +737,7 @@
       "modificatore": "",
       "model": "VIK_BERSERK_FM",
       "basi_per_rango": 6,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
@@ -803,6 +810,7 @@
       "modificatore": "",
       "model": "VIK_GEN",
       "basi_per_rango": 1,
+      "formazione": "linea",
       "basi": [
         {
           "id": 1,
