@@ -681,6 +681,142 @@
       ],
       "modificatore": "",
       "model": "VIK_BOWS_FL",
+      "basi_per_rango": 6,
+      "formazione": "doppia_linea",
+      "basi": [
+        {
+          "id": 1,
+          "seq": 1,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 2,
+          "seq": 2,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 3,
+          "seq": 3,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 4,
+          "seq": 4,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        {
+          "id": 5,
+          "seq": 5,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 2
+          }
+        },
+        {
+          "id": 6,
+          "seq": 6,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 2
+          }
+        },
+        {
+          "id": 7,
+          "seq": 7,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 8
+          }
+        },
+        {
+          "id": 8,
+          "seq": 8,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 8
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 8
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 10
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 10
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 8,
+            "y": 0,
+            "z": 10
+          }
+        }
+      ],
+      "numero_unita": 1
+    },
+    {
+      "nome_display": "Schermagliatori con Giavellotto",
+      "tipo": "FL",
+      "morale": "GUERRIERI",
+      "armi": [
+        "GIAVELLOTTO",
+        "SCUDO"
+      ],
+      "modificatore": "",
+      "model": "VIK_GIAV_FL",
       "basi_per_rango": 3,
       "formazione": "doppia_linea",
       "basi": [
@@ -742,142 +878,6 @@
             "x": 0,
             "y": 0,
             "z": 10
-          }
-        },
-        {
-          "id": 7,
-          "seq": 7,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 16
-          }
-        },
-        {
-          "id": 8,
-          "seq": 8,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 16
-          }
-        },
-        {
-          "id": 9,
-          "seq": 9,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 18
-          }
-        },
-        {
-          "id": 10,
-          "seq": 10,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 24
-          }
-        },
-        {
-          "id": 11,
-          "seq": 11,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 24
-          }
-        },
-        {
-          "id": 12,
-          "seq": 12,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 26
-          }
-        }
-      ],
-      "numero_unita": 1
-    },
-    {
-      "nome_display": "Schermagliatori con Giavellotto",
-      "tipo": "FL",
-      "morale": "GUERRIERI",
-      "armi": [
-        "GIAVELLOTTO",
-        "SCUDO"
-      ],
-      "modificatore": "",
-      "model": "VIK_GIAV_FL",
-      "basi_per_rango": 4,
-      "formazione": "doppia_linea",
-      "basi": [
-        {
-          "id": 1,
-          "seq": 1,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 2
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 0,
-            "y": 0,
-            "z": 8
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 8
           }
         }
       ],
