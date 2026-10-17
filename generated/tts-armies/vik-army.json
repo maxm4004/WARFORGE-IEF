@@ -651,16 +651,13 @@
       "numero_unita": 1
     },
     {
-      "nome_display": "Schermagliatori con Giavellotto",
-      "tipo": "FL",
-      "morale": "GUERRIERI",
-      "armi": [
-        "GIAVELLOTTO",
-        "SCUDO"
-      ],
+      "nome_display": "Generale Subordinato",
+      "tipo": "GEN",
+      "morale": "",
+      "armi": [],
       "modificatore": "",
-      "model": "VIK_GIAV_FL",
-      "basi_per_rango": 6,
+      "model": "VIK_GEN",
+      "basi_per_rango": 1,
       "formazione": "linea",
       "basi": [
         {
@@ -672,71 +669,19 @@
             "y": 0,
             "z": 0
           }
-        },
-        {
-          "id": 2,
-          "seq": 2,
-          "guid": null,
-          "posizione": {
-            "x": 4,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 3,
-          "seq": 3,
-          "guid": null,
-          "posizione": {
-            "x": 8,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 4,
-          "seq": 4,
-          "guid": null,
-          "posizione": {
-            "x": 12,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 5,
-          "seq": 5,
-          "guid": null,
-          "posizione": {
-            "x": 16,
-            "y": 0,
-            "z": 0
-          }
-        },
-        {
-          "id": 6,
-          "seq": 6,
-          "guid": null,
-          "posizione": {
-            "x": 20,
-            "y": 0,
-            "z": 0
-          }
         }
-      ],
-      "numero_unita": 1
+      ]
     },
     {
-      "nome_display": "Berserker",
-      "tipo": "FM",
-      "morale": "ELITE",
+      "nome_display": "Schermagliatori con Arco",
+      "tipo": "FL",
+      "morale": "GUERRIERI",
       "armi": [
-        "ARMI_CORTE",
-        "SCUDO"
+        "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BERSERK_FM",
-      "basi_per_rango": 6,
+      "model": "VIK_BOWS_FL",
+      "basi_per_rango": 4,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -764,9 +709,9 @@
           "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 2
           }
         },
         {
@@ -774,7 +719,7 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
             "z": 2
           }
@@ -784,9 +729,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 2
+            "z": 8
           }
         },
         {
@@ -794,23 +739,86 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 4,
             "y": 0,
-            "z": 2
+            "z": 8
+          }
+        },
+        {
+          "id": 7,
+          "seq": 7,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 10
+          }
+        },
+        {
+          "id": 8,
+          "seq": 8,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 10
+          }
+        },
+        {
+          "id": 9,
+          "seq": 9,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 16
+          }
+        },
+        {
+          "id": 10,
+          "seq": 10,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 16
+          }
+        },
+        {
+          "id": 11,
+          "seq": 11,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 18
+          }
+        },
+        {
+          "id": 12,
+          "seq": 12,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 18
           }
         }
       ],
       "numero_unita": 1
     },
     {
-      "nome_display": "Generale Subordinato",
-      "tipo": "GEN",
-      "morale": "",
-      "armi": [],
+      "nome_display": "Schermagliatori con Giavellotto",
+      "tipo": "FL",
+      "morale": "GUERRIERI",
+      "armi": [
+        "GIAVELLOTTO",
+        "SCUDO"
+      ],
       "modificatore": "",
-      "model": "VIK_GEN",
-      "basi_per_rango": 1,
-      "formazione": "linea",
+      "model": "VIK_GIAV_FL",
+      "basi_per_rango": 4,
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -821,8 +829,59 @@
             "y": 0,
             "z": 0
           }
+        },
+        {
+          "id": 2,
+          "seq": 2,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "id": 3,
+          "seq": 3,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 2
+          }
+        },
+        {
+          "id": 4,
+          "seq": 4,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 2
+          }
+        },
+        {
+          "id": 5,
+          "seq": 5,
+          "guid": null,
+          "posizione": {
+            "x": 0,
+            "y": 0,
+            "z": 8
+          }
+        },
+        {
+          "id": 6,
+          "seq": 6,
+          "guid": null,
+          "posizione": {
+            "x": 4,
+            "y": 0,
+            "z": 8
+          }
         }
-      ]
+      ],
+      "numero_unita": 2
     }
   ],
   "elementi": {
@@ -1141,6 +1200,48 @@
         }
       ]
     },
+    "VIK_BOWS_FL": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 0.66
+      },
+      "children": [
+        {
+          "customMesh": {
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.816,
+            "offsetY": 0.073,
+            "offsetZ": -0.035
+          }
+        },
+        {
+          "customMesh": {
+            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
+            "diffuseURL": "",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.832,
+            "offsetY": 0.077,
+            "offsetZ": -0.035
+          }
+        }
+      ]
+    },
     "VIK_GIAV_FL": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
@@ -1177,63 +1278,6 @@
             "offsetX": -0.832,
             "offsetY": 0.077,
             "offsetZ": -0.035
-          }
-        }
-      ]
-    },
-    "VIK_BERSERK_FM": {
-      "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/10759047602059441406/CE2D181F991141D7F469A96044F155C85A4BCCC4/",
-        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
-        "colliderURL": "",
-        "material": 3,
-        "type": 0,
-        "scaleZ": 0.66
-      },
-      "children": [
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600702750/3290127330E5D732C0A11AD7BCE2C957120834B7/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": 0.93,
-            "offsetY": 0.04,
-            "offsetZ": 0,
-            "rotY": 30
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937783600738725/6CEFB4C94D610FDCC6575805A133A14F9599175D/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": -0.18,
-            "offsetY": 0.04,
-            "offsetZ": 0.12,
-            "rotY": 30
-          }
-        },
-        {
-          "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791585127104/362E496FACE1FB4B1676820E494D09C94200BDE3/",
-            "assetBundleSecondaryURL": "",
-            "material": 3,
-            "type": 0,
-            "scaleX": 0.7,
-            "scaleY": 0.7,
-            "scaleZ": 0.7,
-            "offsetX": -1.15,
-            "offsetY": 0.04,
-            "offsetZ": 0.07,
-            "rotY": 30
           }
         }
       ]
