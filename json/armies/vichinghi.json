@@ -72,7 +72,7 @@
         "bases_max": 64,
         "bases_per_unit": 8,
         "cost_per_base": 9,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Puo formare unita miste: 1° rango lancieri, 2° arcieri"
       },
       {
@@ -91,7 +91,7 @@
         "bases_max": 64,
         "bases_per_unit": 8,
         "cost_per_base": 4,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Condivide limiti con Bondi Lancieri"
       },
       {
@@ -107,6 +107,21 @@
         "bases_max": 8,
         "bases_per_unit": 6,
         "cost_per_base": 3,
+        "is_key_unit": false,
+        "notes": ""
+      },
+      {
+        "name": "Schermagliatori con Arco",
+        "type": "FL",
+        "morale": "GUERRIERI",
+        "weapons": [
+          "ARCO"
+        ],
+        "capabilities": [],
+        "bases_min": 0,
+        "bases_max": 16,
+        "bases_per_unit": 6,
+        "cost_per_base": 2,
         "is_key_unit": false,
         "notes": ""
       },

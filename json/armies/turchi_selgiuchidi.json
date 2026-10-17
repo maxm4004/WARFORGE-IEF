@@ -69,7 +69,7 @@
         "bases_max": 24,
         "bases_per_unit": 4,
         "cost_per_base": 8,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -86,7 +86,7 @@
         "bases_max": 16,
         "bases_per_unit": 8,
         "cost_per_base": 6,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -104,7 +104,7 @@
         "bases_max": 24,
         "bases_per_unit": 6,
         "cost_per_base": 7,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {

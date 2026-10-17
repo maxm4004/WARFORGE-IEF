@@ -84,7 +84,7 @@
         "bases_max": 16,
         "bases_per_unit": 8,
         "cost_per_base": 3,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -102,7 +102,7 @@
         "bases_max": 8,
         "bases_per_unit": 8,
         "cost_per_base": 9,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -118,7 +118,7 @@
         "bases_max": 6,
         "bases_per_unit": 4,
         "cost_per_base": 5,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -136,7 +136,7 @@
         "bases_max": 12,
         "bases_per_unit": 6,
         "cost_per_base": 5,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {

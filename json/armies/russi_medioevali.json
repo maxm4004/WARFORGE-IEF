@@ -85,7 +85,7 @@
         "bases_max": 32,
         "bases_per_unit": 8,
         "cost_per_base": 9,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Sempre 8 basi. Puo essere misto: 1° rango lancieri, 2° arcieri"
       },
       {
@@ -100,7 +100,7 @@
         "bases_max": 32,
         "bases_per_unit": 8,
         "cost_per_base": 4,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Sempre 8 basi"
       },
       {
@@ -116,7 +116,7 @@
         "bases_max": 16,
         "bases_per_unit": 6,
         "cost_per_base": 5,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -132,7 +132,7 @@
         "bases_max": 24,
         "bases_per_unit": 8,
         "cost_per_base": 4,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -147,7 +147,7 @@
         "bases_max": 24,
         "bases_per_unit": 6,
         "cost_per_base": 2,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -165,7 +165,7 @@
         "bases_max": 4,
         "bases_per_unit": 4,
         "cost_per_base": 12,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {

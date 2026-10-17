@@ -166,7 +166,7 @@
         "bases_max": 12,
         "bases_per_unit": 4,
         "cost_per_base": 4,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {

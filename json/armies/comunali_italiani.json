@@ -70,7 +70,7 @@
         "bases_max": 12,
         "bases_per_unit": 4,
         "cost_per_base": 10,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -167,7 +167,7 @@
         "bases_max": 16,
         "bases_per_unit": 4,
         "cost_per_base": 17,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Post 1150. Sostituisce i CP. KN+CP max 16 basi complessive"
       },
       {
@@ -181,11 +181,11 @@
         "capabilities": [
           "MURO_DI_SCUDI"
         ],
-        "bases_min": 8,
+        "bases_min": 4,
         "bases_max": 8,
         "bases_per_unit": 8,
         "cost_per_base": 9,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Post 1150. Sempre 8 basi: 1° rango lancieri, 2° balestrieri"
       },
       {
@@ -198,11 +198,11 @@
         "capabilities": [
           "RAFFICA"
         ],
-        "bases_min": 8,
+        "bases_min": 4,
         "bases_max": 8,
         "bases_per_unit": 8,
         "cost_per_base": 8,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Post 1150. Obbligatorio in coppia con Pavesi 1° rango"
       },
       {
@@ -221,7 +221,7 @@
         "bases_max": 8,
         "bases_per_unit": 4,
         "cost_per_base": 15,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Post 1150"
       },
       {
@@ -234,7 +234,7 @@
         "bases_max": 1,
         "bases_per_unit": 1,
         "cost_per_base": 50,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Simbolo citta: +1 test morale a unita entro 6\". Guardia selezionabile solo se presente"
       },
       {
@@ -252,7 +252,7 @@
         "bases_max": 8,
         "bases_per_unit": 8,
         "cost_per_base": 10,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Solo se selezionato il Carroccio"
       },
       {
@@ -270,7 +270,7 @@
         "bases_max": 8,
         "bases_per_unit": 6,
         "cost_per_base": 11,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": "Post 1150"
       },
       {

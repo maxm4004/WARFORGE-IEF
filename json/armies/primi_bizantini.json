@@ -89,7 +89,7 @@
         "bases_max": 8,
         "bases_per_unit": 4,
         "cost_per_base": 8,
-        "is_key_unit": true,
+        "is_key_unit": false,
         "notes": ""
       },
       {
@@ -130,7 +130,7 @@
         "notes": ""
       },
       {
-        "name": "Psloi con Giavellotto",
+        "name": "Psiloi con Giavellotto",
         "type": "FL",
         "morale": "GUERRIERI",
         "weapons": [
@@ -146,7 +146,7 @@
         "notes": ""
       },
       {
-        "name": "Psloi con Arco",
+        "name": "Psiloi con Arco",
         "type": "FL",
         "morale": "GUERRIERI",
         "weapons": [
@@ -161,7 +161,7 @@
         "notes": ""
       },
       {
-        "name": "Psloi con Fionda",
+        "name": "Psiloi con Fionda",
         "type": "FL",
         "morale": "GUERRIERI",
         "weapons": [
