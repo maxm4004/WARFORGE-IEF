@@ -564,7 +564,7 @@
       ],
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
-      "basi_per_rango": 3,
+      "basi_per_rango": 4,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -602,9 +602,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
-            "z": 10
+            "z": 3
           }
         },
         {
@@ -612,7 +612,7 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
             "z": 10
           }
@@ -622,9 +622,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
-            "z": 13
+            "z": 10
           }
         },
         {
@@ -634,7 +634,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 20
+            "z": 13
           }
         },
         {
@@ -644,7 +644,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 20
+            "z": 13
           }
         }
       ],
@@ -817,7 +817,7 @@
       ],
       "modificatore": "",
       "model": "VIK_GIAV_FL",
-      "basi_per_rango": 3,
+      "basi_per_rango": 6,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -845,9 +845,9 @@
           "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 2
+            "z": 0
           }
         },
         {
@@ -857,7 +857,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 8
+            "z": 2
           }
         },
         {
@@ -867,7 +867,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 8
+            "z": 2
           }
         },
         {
@@ -875,9 +875,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 10
+            "z": 2
           }
         }
       ],
