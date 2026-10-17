@@ -601,7 +601,7 @@
       ],
       "modificatore": "",
       "model": "ANG_BOWS_FL",
-      "basi_per_rango": 3,
+      "basi_per_rango": 6,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -629,9 +629,9 @@
           "seq": 3,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 2
+            "z": 0
           }
         },
         {
@@ -641,7 +641,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 8
+            "z": 2
           }
         },
         {
@@ -651,7 +651,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 8
+            "z": 2
           }
         },
         {
@@ -659,9 +659,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 10
+            "z": 2
           }
         },
         {
@@ -671,7 +671,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 16
+            "z": 8
           }
         },
         {
@@ -681,7 +681,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 16
+            "z": 8
           }
         },
         {
@@ -689,9 +689,9 @@
           "seq": 9,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 18
+            "z": 8
           }
         },
         {
@@ -701,7 +701,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 24
+            "z": 10
           }
         },
         {
@@ -711,7 +711,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 24
+            "z": 10
           }
         },
         {
@@ -719,9 +719,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 8,
             "y": 0,
-            "z": 26
+            "z": 10
           }
         }
       ],
