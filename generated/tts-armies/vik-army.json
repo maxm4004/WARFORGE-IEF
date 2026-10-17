@@ -565,7 +565,7 @@
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
-      "formazione": "colonna",
+      "formazione": "doppia_linea",
       "basi": [
         {
           "id": 1,
@@ -582,9 +582,9 @@
           "seq": 2,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
-            "z": 3
+            "z": 0
           }
         },
         {
@@ -594,7 +594,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 6
+            "z": 3
           }
         },
         {
@@ -602,9 +602,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
-            "z": 9
+            "z": 3
           }
         },
         {
@@ -612,9 +612,9 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
-            "z": 0
+            "z": 10
           }
         },
         {
@@ -622,9 +622,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 4,
             "y": 0,
-            "z": 3
+            "z": 10
           }
         },
         {
@@ -632,9 +632,9 @@
           "seq": 7,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 0,
             "y": 0,
-            "z": 6
+            "z": 13
           }
         },
         {
@@ -642,9 +642,9 @@
           "seq": 8,
           "guid": null,
           "posizione": {
-            "x": 8,
+            "x": 4,
             "y": 0,
-            "z": 9
+            "z": 13
           }
         }
       ],
@@ -1211,10 +1211,9 @@
       },
       "children": [
         {
-          "customMesh": {
-            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
-            "diffuseURL": "",
-            "colliderURL": "",
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/956338982742590308/6BDBBCA7C09035B545A37483D613AEB274FD6D78/",
+            "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
@@ -1226,10 +1225,9 @@
           }
         },
         {
-          "customMesh": {
-            "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
-            "diffuseURL": "",
-            "colliderURL": "",
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/946203791587110822/BC9961899B718174760744325D789BAFFE535CB1/",
+            "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
