@@ -564,7 +564,7 @@
       ],
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
-      "basi_per_rango": 4,
+      "basi_per_rango": 3,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -602,9 +602,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 3
+            "z": 10
           }
         },
         {
@@ -612,7 +612,7 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
             "z": 10
           }
@@ -622,9 +622,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 10
+            "z": 13
           }
         },
         {
@@ -634,7 +634,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 13
+            "z": 20
           }
         },
         {
@@ -644,7 +644,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 13
+            "z": 20
           }
         }
       ],
@@ -681,7 +681,7 @@
       ],
       "modificatore": "",
       "model": "VIK_BOWS_FL",
-      "basi_per_rango": 4,
+      "basi_per_rango": 3,
       "formazione": "doppia_linea",
       "basi": [
         {
@@ -719,9 +719,9 @@
           "seq": 4,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 2
+            "z": 8
           }
         },
         {
@@ -729,7 +729,7 @@
           "seq": 5,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
             "z": 8
           }
@@ -739,9 +739,9 @@
           "seq": 6,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 8
+            "z": 10
           }
         },
         {
@@ -751,7 +751,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 10
+            "z": 16
           }
         },
         {
@@ -761,7 +761,7 @@
           "posizione": {
             "x": 4,
             "y": 0,
-            "z": 10
+            "z": 16
           }
         },
         {
@@ -771,7 +771,7 @@
           "posizione": {
             "x": 0,
             "y": 0,
-            "z": 16
+            "z": 18
           }
         },
         {
@@ -779,9 +779,9 @@
           "seq": 10,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 16
+            "z": 24
           }
         },
         {
@@ -789,9 +789,9 @@
           "seq": 11,
           "guid": null,
           "posizione": {
-            "x": 0,
+            "x": 4,
             "y": 0,
-            "z": 18
+            "z": 24
           }
         },
         {
@@ -799,9 +799,9 @@
           "seq": 12,
           "guid": null,
           "posizione": {
-            "x": 4,
+            "x": 0,
             "y": 0,
-            "z": 18
+            "z": 26
           }
         }
       ],
