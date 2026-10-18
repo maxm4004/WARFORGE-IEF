@@ -9,7 +9,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "ANG",
+      "model": "ANG_GEN",
       "basi_per_rango": 1,
       "formazione": "linea",
       "armamento": "normale",
@@ -35,7 +35,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_FP",
       "basi_per_rango": 8,
       "formazione": "doppia_linea",
       "armamento": "normale",
@@ -212,7 +212,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_FYRD",
+      "model": "ANG_FYRD_FP",
       "basi_per_rango": 8,
       "formazione": "doppia_linea",
       "armamento": "normale",
@@ -468,7 +468,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_FM",
       "basi_per_rango": 6,
       "formazione": "doppia_linea",
       "armamento": "normale",
@@ -604,7 +604,7 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "ANG_BOWS",
+      "model": "ANG_BOWS_FL",
       "basi_per_rango": 6,
       "formazione": "doppia_linea",
       "armamento": "normale",
@@ -741,7 +741,7 @@
         "SCUDO"
       ],
       "modificatore": "",
-      "model": "ANG_HUSCARL",
+      "model": "ANG_HUSCARL_CP",
       "basi_per_rango": 4,
       "formazione": "doppia_linea",
       "armamento": "normale",
@@ -875,7 +875,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "ANG",
+      "model": "ANG_GEN",
       "basi_per_rango": 1,
       "formazione": "linea",
       "armamento": "normale",
@@ -894,7 +894,7 @@
     }
   ],
   "elementi": {
-    "ANG": {
+    "ANG_GEN": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -935,9 +935,9 @@
         }
       ]
     },
-    "ANG_HUSCARL": {
+    "ANG_HUSCARL_FP": {
       "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11679803941755347416/06F82713429C693CEC0C4AC7FAC2669185E76F29/",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "colliderURL": "",
         "material": 3,
@@ -947,52 +947,63 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
             "assetBundleSecondaryURL": "",
             "material": 3,
-            "type": 1,
+            "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.051,
-            "offsetY": 0.077,
-            "offsetZ": -0.173,
-            "rotY": 0
+            "offsetX": 0.77,
+            "offsetY": 0.02,
+            "offsetZ": 0.08
           }
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
             "assetBundleSecondaryURL": "",
             "material": 3,
-            "type": 1,
+            "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.066,
-            "offsetY": 0.077,
-            "offsetZ": -0.175,
-            "rotY": 0
+            "offsetX": 0.02,
+            "offsetY": 0.05,
+            "offsetZ": 0.08
           }
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/13912128309176839688/73C496792B29A5A9DF46BE4D271697CD8B427DA1/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.7,
+            "offsetY": 0.02,
+            "offsetZ": 0.09
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/9558772118868109182/2A57CBE15A5A351FE0E6AAF38B1F6EE977972D62/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 1,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.974,
-            "offsetY": 0.077,
-            "offsetZ": -0.143,
-            "rotY": 0
+            "offsetX": -1.42,
+            "offsetY": 0.05,
+            "offsetZ": 0.1
           }
         }
       ]
     },
-    "ANG_FYRD": {
+    "ANG_FYRD_FP": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11457726409061651616/A134137BABCD72737017801CBAD673418D7A1F26/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
@@ -1062,14 +1073,71 @@
         }
       ]
     },
-    "ANG_BOWS": {
+    "ANG_BOWS_FM": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/16175457257009716594/1148ADF2BDC9859DE9725AEF4962C40D0BC879CC/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
         "colliderURL": "",
         "material": 3,
         "type": 0,
-        "scaleZ": 0.66
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.93,
+            "offsetY": -0.01,
+            "offsetZ": -0.07,
+            "rotY": 50
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.06,
+            "offsetY": 0.04,
+            "offsetZ": -0.04,
+            "rotY": 50
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925938221012672721/9CECE7188737416967BF3DDB907819FE477B8E45/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 1.1,
+            "offsetY": 0.04,
+            "offsetZ": -0.07,
+            "rotY": 50
+          }
+        }
+      ]
+    },
+    "ANG_BOWS_FL": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/16175457257009716594/1148ADF2BDC9859DE9725AEF4962C40D0BC879CC/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
       },
       "children": [
         {
@@ -1100,6 +1168,63 @@
             "offsetY": 0.077,
             "offsetZ": -0.035,
             "rotY": 61
+          }
+        }
+      ]
+    },
+    "ANG_HUSCARL_CP": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/11679803941755347416/06F82713429C693CEC0C4AC7FAC2669185E76F29/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1014942732523990770/9EBBA093EC1C1CA2CEBD5286AB2BEAF40E79FB4E/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 1,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.051,
+            "offsetY": 0.077,
+            "offsetZ": -0.173,
+            "rotY": 0
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 1,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.066,
+            "offsetY": 0.077,
+            "offsetZ": -0.175,
+            "rotY": 0
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12596940499807752471/0F3DBF4964E46EC85C9A8E02F1DE505CD7A9CFFA/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 1,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.974,
+            "offsetY": 0.077,
+            "offsetZ": -0.143,
+            "rotY": 0
           }
         }
       ]
