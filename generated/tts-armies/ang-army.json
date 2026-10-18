@@ -24,7 +24,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "unit_name": "ANG_GEN"
     },
     {
       "nome_display": "Huscarls",
@@ -201,6 +202,7 @@
           }
         }
       ],
+      "unit_name": "ANG_HUSCARL_FP",
       "numero_unita": 1
     },
     {
@@ -458,6 +460,7 @@
           }
         }
       ],
+      "unit_name": "ANG_FYRD_FP",
       "numero_unita": 2
     },
     {
@@ -594,6 +597,7 @@
           }
         }
       ],
+      "unit_name": "ANG_BOWS_FM",
       "numero_unita": 1
     },
     {
@@ -730,6 +734,7 @@
           }
         }
       ],
+      "unit_name": "ANG_BOWS_FL",
       "numero_unita": 1
     },
     {
@@ -867,6 +872,7 @@
           }
         }
       ],
+      "unit_name": "ANG_HUSCARL_CP",
       "numero_unita": 1
     },
     {
@@ -890,7 +896,8 @@
             "z": 0
           }
         }
-      ]
+      ],
+      "unit_name": "ANG_GEN"
     }
   ],
   "elementi": {
