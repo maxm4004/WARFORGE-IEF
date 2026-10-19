@@ -9,7 +9,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_CNC_GEN",
       "basi_per_rango": 1,
       "formazione": "linea",
       "armamento": "normale",
@@ -25,7 +25,7 @@
           }
         }
       ],
-      "unit_name": "VIK_GEN"
+      "unit_name": "VIK_CNC_GEN"
     },
     {
       "nome_display": "Huscarls",
@@ -667,7 +667,7 @@
       "morale": "",
       "armi": [],
       "modificatore": "",
-      "model": "VIK_GEN",
+      "model": "VIK_SUB_GEN",
       "basi_per_rango": 1,
       "formazione": "linea",
       "armamento": "normale",
@@ -683,7 +683,7 @@
           }
         }
       ],
-      "unit_name": "VIK_GEN"
+      "unit_name": "VIK_SUB_GEN"
     },
     {
       "nome_display": "Schermagliatori con Arco",
@@ -902,7 +902,7 @@
     }
   ],
   "elementi": {
-    "VIK_GEN": {
+    "VIK_CNC_GEN": {
       "customMesh": {
         "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11254496098633589684/8F80AA7C2114172072B5ECC8BA9DC17A3417AA6F/",
@@ -1285,6 +1285,75 @@
             "offsetY": -0.15,
             "offsetZ": -0.4,
             "rotY": 0
+          }
+        }
+      ]
+    },
+    "VIK_SUB_GEN": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11254496098633589684/8F80AA7C2114172072B5ECC8BA9DC17A3417AA6F/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.68,
+            "scaleY": 0.68,
+            "scaleZ": 0.68,
+            "offsetX": 0.62,
+            "offsetY": 0.06,
+            "offsetZ": 0.29
+          }
+        },
+        {
+          "customMesh": {
+            "meshURL": "https://www.dropbox.com/s/6fq9iwwavwj62mx/Banner%20Final.obj?dl=1",
+            "diffuseURL": "https://i.imgur.com/RWCcwFC.png",
+            "colliderURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.68,
+            "scaleY": 0.68,
+            "scaleZ": 0.68,
+            "offsetX": -0.2,
+            "offsetY": 0.06,
+            "offsetZ": 0.65
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/974352614528175590/88CC1FBE2CF2D075329989EDE0C96C5978319E08/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.68,
+            "scaleY": 0.68,
+            "scaleZ": 0.68,
+            "offsetX": -1.09,
+            "offsetY": 0.06,
+            "offsetZ": 0.27
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/925937939414444952/8C77EE5B16EF4D54A9B208A9FA56A1EA8EF29AF8/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.68,
+            "scaleY": 0.68,
+            "scaleZ": 0.68,
+            "offsetX": 0.02,
+            "offsetY": 0.09,
+            "offsetZ": -0.53
           }
         }
       ]
