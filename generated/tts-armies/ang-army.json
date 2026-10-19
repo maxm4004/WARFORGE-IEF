@@ -923,7 +923,7 @@
             "offsetX": -0.26,
             "offsetY": 0.06,
             "offsetZ": -0.05,
-            "rotY": 0
+            "rotY": 180
           }
         },
         {
@@ -939,7 +939,7 @@
             "offsetX": 0.54,
             "offsetY": 0.14,
             "offsetZ": -0.34,
-            "rotY": 0
+            "rotY": 180
           }
         }
       ]
