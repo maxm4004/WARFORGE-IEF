@@ -921,9 +921,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.042,
-            "offsetY": 2,
-            "offsetZ": -0.007
+            "offsetX": 0.05,
+            "offsetY": 0.06,
+            "offsetZ": -0.01
           }
         },
         {
@@ -936,9 +936,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.018,
-            "offsetY": 0.045,
-            "offsetZ": 0.7,
+            "offsetX": 0.02,
+            "offsetY": 0.09,
+            "offsetZ": -0.41,
             "rotY": 270
           }
         }
