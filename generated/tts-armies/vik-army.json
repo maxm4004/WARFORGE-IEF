@@ -1211,9 +1211,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.33,
-            "offsetY": -0.14,
-            "offsetZ": -0.28,
+            "offsetX": 1.1,
+            "offsetY": 0.04,
+            "offsetZ": -0.03,
             "rotY": 90
           }
         },
@@ -1226,9 +1226,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.51,
-            "offsetY": -0.14,
-            "offsetZ": -0.28,
+            "offsetX": 0.42,
+            "offsetY": 0.04,
+            "offsetZ": -0.03,
             "rotY": 90
           }
         },
@@ -1241,9 +1241,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.29,
-            "offsetY": -0.14,
-            "offsetZ": -0.28,
+            "offsetX": -0.37,
+            "offsetY": 0.04,
+            "offsetZ": 0,
             "rotY": 90
           }
         },
@@ -1256,9 +1256,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 1,
-            "offsetY": -0.14,
-            "offsetZ": -0.28,
+            "offsetX": -1.12,
+            "offsetY": 0.04,
+            "offsetZ": -0.03,
             "rotY": 90
           }
         }
