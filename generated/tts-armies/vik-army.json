@@ -1131,62 +1131,62 @@
       "children": [
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 1.1,
-            "offsetY": 0.04,
-            "offsetZ": -0.03,
-            "rotY": 90
+            "offsetX": -1.27,
+            "offsetY": -0.01,
+            "offsetZ": -0.08,
+            "rotY": 40
           }
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.42,
-            "offsetY": 0.04,
-            "offsetZ": -0.03,
-            "rotY": 90
+            "offsetX": -0.43,
+            "offsetY": 0,
+            "offsetZ": -0.11,
+            "rotY": 40
           }
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.37,
-            "offsetY": 0.04,
-            "offsetZ": 0,
-            "rotY": 90
+            "offsetX": 0.37,
+            "offsetY": 0,
+            "offsetZ": -0.1,
+            "rotY": 40
           }
         },
         {
           "customAssetbundle": {
-            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/16575895792905046994/9F9E5D31B3F7CECD63550B135D043B1E102E5C5A/",
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
             "assetBundleSecondaryURL": "",
             "material": 3,
             "type": 0,
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.12,
-            "offsetY": 0.04,
-            "offsetZ": -0.03,
-            "rotY": 90
+            "offsetX": 1.17,
+            "offsetY": -0.01,
+            "offsetZ": -0.09,
+            "rotY": 40
           }
         }
       ]
