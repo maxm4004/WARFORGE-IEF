@@ -904,7 +904,7 @@
   "elementi": {
     "VIK_CNC_GEN": {
       "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/12541150974840862890/940AC4CC50075996297256873806659A00A7AAFF/",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11254496098633589684/8F80AA7C2114172072B5ECC8BA9DC17A3417AA6F/",
         "colliderURL": "",
         "material": 3,
@@ -995,9 +995,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.31,
-            "offsetY": -0.15,
-            "offsetZ": -0.32,
+            "offsetX": -1.15,
+            "offsetY": 0.04,
+            "offsetZ": 0,
             "rotY": 50
           }
         },
@@ -1010,9 +1010,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.54,
-            "offsetY": -0.15,
-            "offsetZ": -0.33,
+            "offsetX": -0.38,
+            "offsetY": 0.04,
+            "offsetZ": -0.01,
             "rotY": 50
           }
         },
@@ -1025,9 +1025,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.23,
-            "offsetY": -0.15,
-            "offsetZ": -0.34,
+            "offsetX": 0.39,
+            "offsetY": 0.04,
+            "offsetZ": -0.02,
             "rotY": 50
           }
         },
@@ -1040,9 +1040,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.99,
-            "offsetY": -0.15,
-            "offsetZ": -0.39,
+            "offsetX": 1.15,
+            "offsetY": 0.04,
+            "offsetZ": -0.07,
             "rotY": 50
           }
         }
@@ -1067,9 +1067,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.32,
-            "offsetY": -0.16,
-            "offsetZ": -0.28,
+            "offsetX": -1.17,
+            "offsetY": -0.01,
+            "offsetZ": -0.01,
             "rotY": 29.73
           }
         },
@@ -1082,9 +1082,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.57,
-            "offsetY": -0.19,
-            "offsetZ": -0.31,
+            "offsetX": -0.43,
+            "offsetY": 0.03,
+            "offsetZ": -0.11,
             "rotY": 30
           }
         },
@@ -1097,9 +1097,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.23,
-            "offsetY": -0.16,
-            "offsetZ": -0.31,
+            "offsetX": 0.37,
+            "offsetY": -0.01,
+            "offsetZ": -0.11,
             "rotY": 29.79
           }
         },
@@ -1112,9 +1112,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.97,
-            "offsetY": -0.19,
-            "offsetZ": -0.34,
+            "offsetX": 1.17,
+            "offsetY": 0.03,
+            "offsetZ": -0.06,
             "rotY": 30
           }
         }
@@ -1139,9 +1139,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.29,
-            "offsetY": -0.19,
-            "offsetZ": -0.38,
+            "offsetX": -1.27,
+            "offsetY": -0.01,
+            "offsetZ": -0.08,
             "rotY": 40
           }
         },
@@ -1154,9 +1154,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.53,
-            "offsetY": -0.19,
-            "offsetZ": -0.38,
+            "offsetX": -0.43,
+            "offsetY": 0,
+            "offsetZ": -0.11,
             "rotY": 40
           }
         },
@@ -1169,9 +1169,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.23,
-            "offsetY": -0.19,
-            "offsetZ": -0.38,
+            "offsetX": 0.37,
+            "offsetY": 0,
+            "offsetZ": -0.1,
             "rotY": 40
           }
         },
@@ -1184,9 +1184,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.98,
-            "offsetY": -0.19,
-            "offsetZ": -0.38,
+            "offsetX": 1.17,
+            "offsetY": -0.01,
+            "offsetZ": -0.09,
             "rotY": 40
           }
         }
@@ -1283,9 +1283,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -1.13,
-            "offsetY": -0.15,
-            "offsetZ": -0.43,
+            "offsetX": -1.01,
+            "offsetY": 0.04,
+            "offsetZ": -0.1,
             "rotY": 0
           }
         },
@@ -1298,9 +1298,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.09,
-            "offsetY": -0.15,
-            "offsetZ": -0.43,
+            "offsetX": 0.04,
+            "offsetY": 0.04,
+            "offsetZ": -0.09,
             "rotY": 0
           }
         },
@@ -1313,9 +1313,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.93,
-            "offsetY": -0.15,
-            "offsetZ": -0.4,
+            "offsetX": 1.06,
+            "offsetY": 0.04,
+            "offsetZ": -0.09,
             "rotY": 0
           }
         }
@@ -1323,7 +1323,7 @@
     },
     "VIK_SUB_GEN": {
       "customMesh": {
-        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/12541150974840862890/940AC4CC50075996297256873806659A00A7AAFF/",
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/15743615377870289462/8EF89F5E2F5CD1BC631011F3E5433AEF0EB2CFF5/",
         "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11254496098633589684/8F80AA7C2114172072B5ECC8BA9DC17A3417AA6F/",
         "colliderURL": "",
         "material": 3,
@@ -1383,9 +1383,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.97,
-            "offsetY": -0.15,
-            "offsetZ": -0.22,
+            "offsetX": 0.8,
+            "offsetY": 0.04,
+            "offsetZ": -0.07,
             "rotY": 70
           }
         },
@@ -1398,9 +1398,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.62,
-            "offsetY": -0.15,
-            "offsetZ": -0.25,
+            "offsetX": -0.77,
+            "offsetY": 0.04,
+            "offsetZ": -0.03,
             "rotY": 70
           }
         }
@@ -1425,9 +1425,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": -0.97,
-            "offsetY": -0.15,
-            "offsetZ": -0.21
+            "offsetX": 0.78,
+            "offsetY": 0.04,
+            "offsetZ": -0.13
           }
         },
         {
@@ -1439,9 +1439,9 @@
             "scaleX": 0.7,
             "scaleY": 0.7,
             "scaleZ": 0.7,
-            "offsetX": 0.7,
-            "offsetY": -0.15,
-            "offsetZ": -0.26
+            "offsetX": -0.87,
+            "offsetY": 0.04,
+            "offsetZ": -0.11
           }
         }
       ]
