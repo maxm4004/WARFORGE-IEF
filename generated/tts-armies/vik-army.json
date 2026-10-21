@@ -393,10 +393,11 @@
         "ARCO"
       ],
       "modificatore": "",
-      "model": "VIK_BONDI_FP",
+      "model": "VIK_BONDI_FP~2",
+      "model_2": "VIK_BONDI_FP~2",
       "basi_per_rango": 8,
       "formazione": "doppia_linea",
-      "armamento": "normale",
+      "armamento": "misto",
       "basi": [
         {
           "id": 1,
@@ -1115,6 +1116,78 @@
             "offsetY": 0.03,
             "offsetZ": -0.06,
             "rotY": 30
+          }
+        }
+      ]
+    },
+    "VIK_BONDI_FP~2": {
+      "customMesh": {
+        "meshURL": "https://steamusercontent-a.akamaihd.net/ugc/14738534372095062423/8D6BEE5EFAA121F8DB0B283998B0BF2D265B7EB0/",
+        "diffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11254496098633589684/8F80AA7C2114172072B5ECC8BA9DC17A3417AA6F/",
+        "colliderURL": "",
+        "material": 3,
+        "type": 0,
+        "scaleZ": 1
+      },
+      "children": [
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -1.27,
+            "offsetY": -0.01,
+            "offsetZ": -0.08,
+            "rotY": 40
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": -0.43,
+            "offsetY": 0,
+            "offsetZ": -0.11,
+            "rotY": 40
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 0.37,
+            "offsetY": 0,
+            "offsetZ": -0.1,
+            "rotY": 40
+          }
+        },
+        {
+          "customAssetbundle": {
+            "assetBundleURL": "https://steamusercontent-a.akamaihd.net/ugc/12635419035952165023/0323B2A810DE2846C8277C5BF0970AF838218937/",
+            "assetBundleSecondaryURL": "",
+            "material": 3,
+            "type": 0,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "scaleZ": 0.7,
+            "offsetX": 1.17,
+            "offsetY": -0.01,
+            "offsetZ": -0.09,
+            "rotY": 40
           }
         }
       ]
