@@ -8,6 +8,7 @@
       "tipo": "GEN",
       "morale": "",
       "armi": [],
+      "capabilities": [],
       "modificatore": "",
       "model": "VIK_CNC_GEN",
       "basi_per_rango": 1,
@@ -34,6 +35,10 @@
       "armi": [
         "ASCIA",
         "SCUDO"
+      ],
+      "capabilities": [
+        "MURO_DI_SCUDI",
+        "SPADA"
       ],
       "modificatore": "",
       "model": "VIK_HUSCARL_FP",
@@ -212,6 +217,9 @@
       "armi": [
         "LANCIA",
         "SCUDO"
+      ],
+      "capabilities": [
+        "MURO_DI_SCUDI"
       ],
       "modificatore": "",
       "model": "VIK_BONDI_FP",
@@ -392,6 +400,9 @@
         "SCUDO",
         "ARCO"
       ],
+      "capabilities": [
+        "MURO_DI_SCUDI"
+      ],
       "modificatore": "",
       "model": "VIK_BONDI_FP~2",
       "model_2": "VIK_BONDI_FP~3",
@@ -571,6 +582,9 @@
         "ARMI_CORTE",
         "SCUDO"
       ],
+      "capabilities": [
+        "SPADA"
+      ],
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
@@ -666,6 +680,7 @@
       "tipo": "GEN",
       "morale": "",
       "armi": [],
+      "capabilities": [],
       "modificatore": "",
       "model": "VIK_SUB_GEN",
       "basi_per_rango": 1,
@@ -692,6 +707,7 @@
       "armi": [
         "ARCO"
       ],
+      "capabilities": [],
       "modificatore": "",
       "model": "VIK_BOWS_FL",
       "basi_per_rango": 6,
@@ -830,6 +846,7 @@
         "GIAVELLOTTO",
         "SCUDO"
       ],
+      "capabilities": [],
       "modificatore": "",
       "model": "VIK_GIAV_FL",
       "basi_per_rango": 6,
