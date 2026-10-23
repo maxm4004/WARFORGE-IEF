@@ -8,6 +8,7 @@
       "tipo": "GEN",
       "morale": "",
       "armi": [],
+      "capabilities": [],
       "modificatore": "",
       "model": "ANG_GEN",
       "basi_per_rango": 1,
@@ -34,6 +35,10 @@
       "armi": [
         "ASCIA",
         "SCUDO"
+      ],
+      "capabilities": [
+        "MURO_DI_SCUDI",
+        "SPADA"
       ],
       "modificatore": "",
       "model": "ANG_HUSCARL_FP",
@@ -212,6 +217,9 @@
       "armi": [
         "LANCIA",
         "SCUDO"
+      ],
+      "capabilities": [
+        "MURO_DI_SCUDI"
       ],
       "modificatore": "",
       "model": "ANG_FYRD_FP",
@@ -470,6 +478,7 @@
       "armi": [
         "ARCO"
       ],
+      "capabilities": [],
       "modificatore": "",
       "model": "ANG_BOWS_FM",
       "basi_per_rango": 6,
@@ -607,6 +616,7 @@
       "armi": [
         "ARCO"
       ],
+      "capabilities": [],
       "modificatore": "",
       "model": "ANG_BOWS_FL",
       "basi_per_rango": 6,
@@ -745,6 +755,9 @@
         "ARMI_CORTE",
         "SCUDO"
       ],
+      "capabilities": [
+        "SPADA"
+      ],
       "modificatore": "",
       "model": "ANG_HUSCARL_CP",
       "basi_per_rango": 4,
@@ -880,6 +893,7 @@
       "tipo": "GEN",
       "morale": "",
       "armi": [],
+      "capabilities": [],
       "modificatore": "",
       "model": "ANG_GEN",
       "basi_per_rango": 1,
