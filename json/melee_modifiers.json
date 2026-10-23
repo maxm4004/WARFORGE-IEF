@@ -2,33 +2,307 @@
   "melee": {
     "hit_threshold": 5,
     "first_turn_modifiers": [
-      { "condition": "KN con Lancia in carica vs chiunque, tranne FP-FM con Lancia/Picca o EL",                    "modifier": 1 },
-      { "condition": "CP con Lancia in carica vs chiunque, tranne KN in carica o FP-FM con Lancia/Picca o EL",    "modifier": 1 },
-      { "condition": "FP-FM con Lancia o Picca vs chiunque",                                                       "modifier": 1 },
-      { "condition": "FP o FM con Asce vs chiunque, tranne KN-CP",                                                 "modifier": 1 },
-      { "condition": "FL vs chiunque, tranne FL o EL",                                                             "modifier": -1 },
-      { "condition": "Generale aggregato",                                                                          "modifier": 1 },
-      { "condition": "Nemico senza scudo",                                                                          "modifier": 1 },
-      { "condition": "Unita in posizione piu alta del nemico",                                                      "modifier": 1 }
+      {
+        "condition": "KN con Lancia in carica vs chiunque, tranne FP-FM con Lancia/Picca o EL",
+        "modifier": 1
+      },
+      {
+        "condition": "CP con Lancia in carica vs chiunque, tranne KN in carica o FP-FM con Lancia/Picca o EL",
+        "modifier": 1
+      },
+      {
+        "condition": "FP-FM con Lancia o Picca vs chiunque",
+        "modifier": 1
+      },
+      {
+        "condition": "FP o FM con Asce vs chiunque, tranne KN-CP",
+        "modifier": 1
+      },
+      {
+        "condition": "FL vs chiunque, tranne FL o EL",
+        "modifier": -1
+      },
+      {
+        "condition": "Generale aggregato",
+        "modifier": 1
+      },
+      {
+        "condition": "Nemico senza scudo",
+        "modifier": 1
+      },
+      {
+        "condition": "Unita in posizione piu alta del nemico",
+        "modifier": 1
+      }
     ],
     "subsequent_turn_modifiers": [
-      { "condition": "Chiunque con capacita SPADA",        "modifier": 1 },
-      { "condition": "FP vs chiunque",                     "modifier": 1 },
-      { "condition": "FL vs chiunque, tranne FL o EL",     "modifier": -1 },
-      { "condition": "FM con Asce vs chiunque",            "modifier": 1 },
-      { "condition": "Generale aggregato",                 "modifier": 1 },
-      { "condition": "Nemico senza scudo",                 "modifier": 1 }
+      {
+        "condition": "Chiunque con capacita SPADA",
+        "modifier": 1
+      },
+      {
+        "condition": "FP vs chiunque",
+        "modifier": 1
+      },
+      {
+        "condition": "FL vs chiunque, tranne FL o EL",
+        "modifier": -1
+      },
+      {
+        "condition": "FM con Asce vs chiunque",
+        "modifier": 1
+      },
+      {
+        "condition": "Generale aggregato",
+        "modifier": 1
+      },
+      {
+        "condition": "Nemico senza scudo",
+        "modifier": 1
+      }
     ],
     "dice_rules": {
-      "default":                  "1D6 per base primo e secondo rango",
-      "FL_vs_non_FL_EL":          "1D6 ogni 2 basi",
-      "FL_vs_FL_o_EL":            "1D6 per base",
-      "CL_vs_non_CL_FL":          "1D6 ogni 2 basi",
-      "CL_vs_CL_o_FL":            "1D6 per base",
-      "ART_vs_chiunque":          "1D6 per base",
-      "EL_primo_rango":           "2D6 per base",
+      "default": "1D6 per base primo e secondo rango",
+      "FL_vs_non_FL_EL": "1D6 ogni 2 basi",
+      "FL_vs_FL_o_EL": "1D6 per base",
+      "CL_vs_non_CL_FL": "1D6 ogni 2 basi",
+      "CL_vs_CL_o_FL": "1D6 per base",
+      "ART_vs_chiunque": "1D6 per base",
+      "EL_primo_rango": "2D6 per base",
       "picca_terzo_quarto_rango": "+1D6 per base aggiuntivo",
-      "disordinata":              "meta dadi arrotondato per difetto"
-    }
+      "disordinata": "meta dadi arrotondato per difetto"
+    },
+    "modifiers_note": "Modificatori applicati dal codice (8_melee). turno: primo | successivi | tutti. chi = condizioni sull'unita che tira, contro = condizioni sul nemico, tranne = elenco di nemici esclusi. Campi: tipi, armi, capacita (basta uno della lista), inCarica, generale, scudo, piuAlto (true/false). Unita DISORDINATA: perde le capacita tranne SPADA.",
+    "modifiers": [
+      {
+        "id": "kn_lancia_carica",
+        "label": "KN con Lancia in carica",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "KN"
+          ],
+          "armi": [
+            "LANCIA"
+          ],
+          "inCarica": true
+        },
+        "tranne": [
+          {
+            "tipi": [
+              "FP",
+              "FM"
+            ],
+            "armi": [
+              "LANCIA",
+              "PICCA"
+            ]
+          },
+          {
+            "tipi": [
+              "EL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cp_lancia_carica",
+        "label": "CP con Lancia in carica",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "CP"
+          ],
+          "armi": [
+            "LANCIA"
+          ],
+          "inCarica": true
+        },
+        "tranne": [
+          {
+            "tipi": [
+              "KN"
+            ],
+            "inCarica": true
+          },
+          {
+            "tipi": [
+              "FP",
+              "FM"
+            ],
+            "armi": [
+              "LANCIA",
+              "PICCA"
+            ]
+          },
+          {
+            "tipi": [
+              "EL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fanteria_lancia_picca",
+        "label": "FP-FM con Lancia o Picca",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "FP",
+            "FM"
+          ],
+          "armi": [
+            "LANCIA",
+            "PICCA"
+          ]
+        }
+      },
+      {
+        "id": "fanteria_ascia_primo",
+        "label": "FP-FM con Ascia",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "FP",
+            "FM"
+          ],
+          "armi": [
+            "ASCIA"
+          ]
+        },
+        "tranne": [
+          {
+            "tipi": [
+              "KN",
+              "CP"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fl_primo",
+        "label": "FL",
+        "turno": "primo",
+        "valore": -1,
+        "chi": {
+          "tipi": [
+            "FL"
+          ]
+        },
+        "tranne": [
+          {
+            "tipi": [
+              "FL",
+              "EL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "generale_primo",
+        "label": "Generale aggregato",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "generale": true
+        }
+      },
+      {
+        "id": "senza_scudo_primo",
+        "label": "Nemico senza scudo",
+        "turno": "primo",
+        "valore": 1,
+        "contro": {
+          "scudo": false
+        }
+      },
+      {
+        "id": "posizione_alta",
+        "label": "Posizione piu' alta del nemico",
+        "turno": "primo",
+        "valore": 1,
+        "chi": {
+          "piuAlto": true
+        }
+      },
+      {
+        "id": "spada",
+        "label": "Capacita' SPADA",
+        "turno": "successivi",
+        "valore": 1,
+        "chi": {
+          "capacita": [
+            "SPADA"
+          ]
+        }
+      },
+      {
+        "id": "fp_successivi",
+        "label": "FP",
+        "turno": "successivi",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "FP"
+          ]
+        }
+      },
+      {
+        "id": "fl_successivi",
+        "label": "FL",
+        "turno": "successivi",
+        "valore": -1,
+        "chi": {
+          "tipi": [
+            "FL"
+          ]
+        },
+        "tranne": [
+          {
+            "tipi": [
+              "FL",
+              "EL"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fm_ascia_successivi",
+        "label": "FM con Ascia",
+        "turno": "successivi",
+        "valore": 1,
+        "chi": {
+          "tipi": [
+            "FM"
+          ],
+          "armi": [
+            "ASCIA"
+          ]
+        }
+      },
+      {
+        "id": "generale_successivi",
+        "label": "Generale aggregato",
+        "turno": "successivi",
+        "valore": 1,
+        "chi": {
+          "generale": true
+        }
+      },
+      {
+        "id": "senza_scudo_successivi",
+        "label": "Nemico senza scudo",
+        "turno": "successivi",
+        "valore": 1,
+        "contro": {
+          "scudo": false
+        }
+      }
+    ],
+    "height_tolerance": 0.2
   }
 }
