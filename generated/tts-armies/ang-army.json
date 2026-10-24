@@ -9,6 +9,7 @@
       "morale": "",
       "armi": [],
       "capabilities": [],
+      "chiave": true,
       "modificatore": "",
       "model": "ANG_GEN",
       "basi_per_rango": 1,
@@ -40,6 +41,7 @@
         "MURO_DI_SCUDI",
         "SPADA"
       ],
+      "chiave": true,
       "modificatore": "",
       "model": "ANG_HUSCARL_FP",
       "basi_per_rango": 8,
@@ -221,6 +223,7 @@
       "capabilities": [
         "MURO_DI_SCUDI"
       ],
+      "chiave": true,
       "modificatore": "",
       "model": "ANG_FYRD_FP",
       "basi_per_rango": 8,
@@ -479,6 +482,7 @@
         "ARCO"
       ],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "ANG_BOWS_FM",
       "basi_per_rango": 6,
@@ -617,6 +621,7 @@
         "ARCO"
       ],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "ANG_BOWS_FL",
       "basi_per_rango": 6,
@@ -758,6 +763,7 @@
       "capabilities": [
         "SPADA"
       ],
+      "chiave": false,
       "modificatore": "",
       "model": "ANG_HUSCARL_CP",
       "basi_per_rango": 4,
@@ -894,6 +900,7 @@
       "morale": "",
       "armi": [],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "ANG_GEN",
       "basi_per_rango": 1,
