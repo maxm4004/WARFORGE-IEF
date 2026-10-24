@@ -9,6 +9,7 @@
       "morale": "",
       "armi": [],
       "capabilities": [],
+      "chiave": true,
       "modificatore": "",
       "model": "VIK_CNC_GEN",
       "basi_per_rango": 1,
@@ -40,6 +41,7 @@
         "MURO_DI_SCUDI",
         "SPADA"
       ],
+      "chiave": true,
       "modificatore": "",
       "model": "VIK_HUSCARL_FP",
       "basi_per_rango": 8,
@@ -221,6 +223,7 @@
       "capabilities": [
         "MURO_DI_SCUDI"
       ],
+      "chiave": false,
       "modificatore": "",
       "model": "VIK_BONDI_FP",
       "basi_per_rango": 8,
@@ -403,6 +406,7 @@
       "capabilities": [
         "MURO_DI_SCUDI"
       ],
+      "chiave": false,
       "modificatore": "",
       "model": "VIK_BONDI_FP~2",
       "model_2": "VIK_BONDI_FP~3",
@@ -585,6 +589,7 @@
       "capabilities": [
         "SPADA"
       ],
+      "chiave": true,
       "modificatore": "",
       "model": "VIK_HUSCARL_CP",
       "basi_per_rango": 4,
@@ -681,6 +686,7 @@
       "morale": "",
       "armi": [],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "VIK_SUB_GEN",
       "basi_per_rango": 1,
@@ -708,6 +714,7 @@
         "ARCO"
       ],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "VIK_BOWS_FL",
       "basi_per_rango": 6,
@@ -847,6 +854,7 @@
         "SCUDO"
       ],
       "capabilities": [],
+      "chiave": false,
       "modificatore": "",
       "model": "VIK_GIAV_FL",
       "basi_per_rango": 6,
